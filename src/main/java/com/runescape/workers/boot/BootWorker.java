@@ -18,6 +18,8 @@ public class BootWorker extends Thread {
 
     private static final ExecutorService service = Executors.newSingleThreadScheduledExecutor();
 
+    private static final boolean DEBUG_RUN = true;
+
     /**
      * The number of the book worker
      */
@@ -33,12 +35,15 @@ public class BootWorker extends Thread {
         for (BootTask work : new ArrayList<>(workLoad)) {
             new Thread(() -> {
                 try {
-                    //long start = System.currentTimeMillis();
+                    long start = System.currentTimeMillis();
                     work.getTask().run();
                     workLoad.remove(work);
                     BootHandler.getCountDownLatch().countDown();
-				/*	long delay = System.currentTimeMillis() - start;
-					System.out.println("Worker #" + number + ":\t\tFinished job " + work.getTaskNumber() + " in " + delay + " ms\t\t\tqueue=[" + BootHandler.workersLeftDetails() + "]");*/
+                    long delay = System.currentTimeMillis() - start;
+
+                    if (DEBUG_RUN) {
+                        System.out.println("Worker #" + number + ":\t\tFinished job " + work.getTaskNumber() + " in " + delay + " ms\t\t\tqueue=[" + BootHandler.workersLeftDetails() + "]");
+                    }
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
