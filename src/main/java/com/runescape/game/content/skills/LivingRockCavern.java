@@ -1,0 +1,65 @@
+package com.runescape.game.content.skills;
+
+import com.runescape.game.world.World;
+import com.runescape.game.world.WorldObject;
+import com.runescape.utility.Utils;
+import com.runescape.workers.game.core.CoresManager;
+
+import java.util.concurrent.TimeUnit;
+
+public final class LivingRockCavern {
+
+	private LivingRockCavern() {
+
+	}
+	
+	private static void respawnRock(final Rocks rock) {
+		World.spawnObject(rock.rock);
+		CoresManager.schedule(() -> {
+			try {
+				removeRock(rock);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}, Utils.random(8) + 3, TimeUnit.MINUTES);
+	}
+	
+	private static void removeRock(final Rocks rock) {
+		World.removeObject(rock.rock);
+		CoresManager.schedule(() -> {
+			try {
+				respawnRock(rock);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}, 3, TimeUnit.MINUTES);
+	}
+	
+	public static void init() {
+		for (Rocks rock : Rocks.values()) {
+			respawnRock(rock);
+		}
+	}
+
+	private enum Rocks {
+		COAL_ROCK_1(new WorldObject(5999, 10, 1, 3690, 5146, 0)),
+		COAL_ROCK_2(new WorldObject(5999, 10, 2, 3690, 5125, 0)),
+		COAL_ROCK_3(new WorldObject(5999, 10, 0, 3687, 5107, 0)),
+		COAL_ROCK_4(new WorldObject(5999, 10, 1, 3674, 5098, 0)),
+		COAL_ROCK_5(new WorldObject(5999, 10, 2, 3664, 5090, 0)),
+		COAL_ROCK_6(new WorldObject(5999, 10, 3, 3615, 5090, 0)),
+		COAL_ROCK_7(new WorldObject(5999, 10, 1, 3625, 5107, 0)),
+		COAL_ROCK_8(new WorldObject(5999, 10, 3, 3647, 5142, 0)),
+		GOLD_ROCK_1(new WorldObject(45076, 10, 1, 3667, 5075, 0)),
+		GOLD_ROCK_2(new WorldObject(45076, 10, 0, 3637, 5094, 0)),
+		GOLD_ROCK_3(new WorldObject(45076, 10, 0, 3677, 5160, 0)),
+		GOLD_ROCK_4(new WorldObject(45076, 10, 1, 3629, 5148, 0));
+
+		private WorldObject rock;
+
+		Rocks(WorldObject rock) {
+			this.rock = rock;
+		}
+
+	}
+}

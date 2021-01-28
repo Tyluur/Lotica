@@ -1,0 +1,1 @@
+java -classpath bin:data/essentials/libs/* -Xmx6G -Xms2048m -server -XX:+UseG1GC com.runescape.Main
