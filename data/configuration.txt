@@ -1,0 +1,5 @@
+#
+#Thu Apr 21 20:44:45 EDT 2016
+double_exp_end=1461458685500
+double_exp_start=1461285885500
+double_votes_enabled=false

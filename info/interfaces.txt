@@ -1,0 +1,7 @@
+InterfaceId				Usage													Photo
+1295					4 buttons & appealing for selecting modes			http://i.imgur.com/cZ8ets4.png
+1174					Selection for teleports								http://i.imgur.com/k5z9qm1.png
+619						Runecrafting										http://i.imgur.com/Tx459fv.png
+798                     Noxrune tutorial
+
+runscript 811 - hide/show exp button

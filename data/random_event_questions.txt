@@ -1,0 +1,16 @@
+What's the name of this server?=lotica
+What is the first letter in Lotica?=l
+What is the last letter in Lotica?=a
+What is 5x5?=25
+What shade is steel armour?=white
+What attack level do you need to wield mithril?=20
+What prayer level do you need for protect item?=25
+What colour is bronze armour?=brown
+What is 10-5?=5
+What attack level do you need for a dragon scimitar?=60
+What is 6*6?=36
+How many eyes do humans have?=2
+What skill do you use to catch fish?=fishing
+What skill do you use to cut trees?=woodcutting
+What skill do you get experience in for burying bones?=prayer
+What prayer level do you need for smite?=52

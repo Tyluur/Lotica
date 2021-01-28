@@ -1,0 +1,1090 @@
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3988 6107 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3989 6110 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3995 6107 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3993 6112 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3994 6100 1
+//RSBOT DUMPED - Wizard Finix, 0
+15418 - 3995 6105 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3998 6111 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3999 6104 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4000 6106 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4010 6113 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3988 6125 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4011 6113 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4015 6106 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3988 6126 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4009 6128 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4009 6126 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4012 6126 1
+//RSBOT DUMPED - null, 0
+15435 - 4013 6129 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4012 6132 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3994 6133 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3994 6134 1
+//RSBOT DUMPED - null, 0
+15435 - 3999 6113 1
+//RSBOT DUMPED - null, 0
+15434 - 4000 6109 1
+//RSBOT DUMPED - null, 0
+15433 - 3981 6138 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3976 6120 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3981 6138 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3976 6108 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4016 6104 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4019 6107 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 4025 6128 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4025 6118 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4026 6119 1
+//RSBOT DUMPED - null, 0
+15431 - 3989 6124 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4027 6131 1
+//RSBOT DUMPED - null, 0
+15433 - 4021 6108 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4005 6092 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4019 6090 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4017 6088 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4020 6086 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4020 6070 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4024 6067 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4028 6058 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3968 6016 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3968 6016 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4006 6060 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4006 6060 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4010 6053 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4009 6053 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4009 6049 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4021 6044 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4020 6040 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4022 6038 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4013 6028 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4012 6028 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 4022 6024 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4024 6024 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 4013 6020 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4011 6019 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3999 6026 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3997 6029 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3996 6031 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3986 6032 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3984 6027 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3985 6043 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3983 6043 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3998 6047 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3999 6050 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3996 6056 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4003 6059 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3984 6061 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3987 6074 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3989 6075 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4000 6075 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4004 6075 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3997 6076 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3985 6073 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3985 6086 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4000 6086 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4000 6086 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3985 6089 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3982 6063 1
+//RSBOT DUMPED - null, 0
+15433 - 3987 6061 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3971 6054 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3973 6053 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3981 6054 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3971 6056 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3971 6026 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3971 6023 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3970 6036 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3968 6039 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3968 6035 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3965 6037 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3952 6021 1
+//RSBOT DUMPED - null, 0
+15431 - 3953 6021 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3951 6021 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3949 6041 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3949 6043 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3958 6051 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3945 6044 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3961 6053 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3945 6036 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3944 6036 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3950 6063 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3950 6066 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3945 6057 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3945 6056 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3941 6057 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3940 6066 1
+//RSBOT DUMPED - null, 0
+15434 - 3936 6071 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3930 6057 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3927 6057 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3928 6059 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3939 6081 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3948 6080 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3944 6083 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3947 6085 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3923 6059 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3923 6093 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3932 6096 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3957 6087 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3959 6089 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3936 6099 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3937 6100 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3958 6102 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3944 6103 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3944 6104 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3971 6105 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3959 6106 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3961 6106 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3966 6109 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3947 6120 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3974 6121 1
+//RSBOT DUMPED - null, 0
+15432 - 3997 6104 1
+//RSBOT DUMPED - null, 0
+15431 - 3990 6127 1
+//RSBOT DUMPED - null, 0
+15435 - 3997 6111 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3971 6129 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3970 6133 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3980 6140 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3958 6141 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3959 6140 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3949 6125 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3949 6126 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3946 6128 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3936 6115 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3936 6120 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3937 6122 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3934 6119 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3931 6126 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3927 6110 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3923 6110 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3923 6111 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3919 6134 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3918 6134 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3930 6139 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3931 6139 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3913 6137 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3911 6118 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3911 6120 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3911 6136 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3911 6106 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3907 6105 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3905 6104 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3921 6097 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3923 6095 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3914 6081 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3917 6079 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3922 6074 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3920 6074 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3917 6071 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3915 6068 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3909 6059 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3911 6058 1
+//RSBOT DUMPED - null, 0
+15434 - 3928 6057 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3916 6044 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3921 6043 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3922 6042 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3920 6038 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 3926 6037 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3941 6037 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 3921 6035 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3908 6032 1
+//RSBOT DUMPED - null, 0
+15434 - 3908 6034 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3909 6033 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 3908 6032 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 3930 6027 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3932 6025 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 3920 6022 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 3917 6019 1
+//RSBOT DUMPED - Wizard Finix, 0
+15418 - 4137 6092 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4139 6117 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4149 6102 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4146 6100 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4146 6103 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4155 6101 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4156 6107 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4155 6106 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4157 6120 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4158 6120 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4164 6091 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4162 6097 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4161 6102 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4140 6117 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4136 6091 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4135 6120 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4164 6096 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4141 6087 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4140 6089 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4135 6088 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4170 6110 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4170 6109 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4173 6110 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4176 6089 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4176 6092 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4178 6091 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4180 6090 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4185 6109 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4186 6112 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4159 6122 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4160 6122 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4159 6122 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4184 6124 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4186 6125 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4184 6125 1
+//RSBOT DUMPED - null, 0
+15431 - 4157 6125 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4183 6127 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4198 6124 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4199 6100 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4200 6106 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4197 6128 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4200 6098 1
+//RSBOT DUMPED - null, 0
+15432 - 4183 6111 1
+//RSBOT DUMPED - Genie, 0
+409 - 4188 6113 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4198 6092 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4207 6111 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4207 6114 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4208 6110 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4211 6095 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4211 6114 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4212 6094 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4212 6082 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4211 6081 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4183 6076 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4200 6072 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4201 6070 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4198 6068 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4215 6063 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4217 6062 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4182 6066 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4193 6050 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4197 6050 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4199 6049 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4199 6047 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4215 6047 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4213 6046 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4194 6044 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4180 6060 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4210 6033 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4207 6032 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4180 6060 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4177 6062 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4179 6067 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4174 6040 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4174 6043 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4172 6042 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4172 6058 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4167 6061 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4176 6045 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4163 6064 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4179 6076 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4149 6070 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4148 6063 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4148 6059 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4144 6055 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4140 6060 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4139 6071 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4138 6056 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4138 6071 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4138 6059 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4138 6076 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4132 6078 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4128 6074 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4132 6048 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4125 6058 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4130 6046 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4125 6045 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4129 6045 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4151 6042 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4123 6061 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4119 6065 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4119 6064 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4130 6081 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4120 6065 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4118 6085 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4116 6085 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4116 6085 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4116 6088 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4131 6098 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4115 6101 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4127 6103 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4130 6102 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4132 6106 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4112 6111 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4110 6100 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4111 6109 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4111 6115 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4122 6119 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4120 6120 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4101 6128 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4102 6129 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4112 6133 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4133 6134 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4110 6136 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4136 6136 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4149 6135 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4151 6134 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4172 6139 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4172 6140 1
+//RSBOT DUMPED - null, 0
+15434 - 4185 6128 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4195 6138 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4197 6139 1
+//RSBOT DUMPED - null, 0
+15434 - 4196 6138 1
+//RSBOT DUMPED - Runesphere, 0
+15445 - 4207 6114 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4210 6132 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4211 6128 1
+//RSBOT DUMPED - null, 0
+15434 - 4199 6124 1
+//RSBOT DUMPED - null, 0
+15432 - 4173 6109 1
+//RSBOT DUMPED - null, 0
+15435 - 4131 6083 1
+//RSBOT DUMPED - null, 0
+15433 - 4123 6064 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4106 6081 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4102 6066 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4100 6064 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4110 6060 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4108 6057 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4108 6042 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4109 6043 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4109 6043 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4106 6037 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4105 6036 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4112 6024 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4114 6023 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4102 6021 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4102 6020 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4128 6027 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4129 6028 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4140 6031 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4140 6035 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4141 6033 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4145 6030 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4142 6021 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4150 6027 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4144 6018 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4155 6042 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4165 6028 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4167 6027 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4190 6028 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4191 6031 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4206 6031 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4214 6020 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4216 6021 1
+//RSBOT DUMPED - null, 0
+15432 - 4216 6019 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4304 6049 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4317 6055 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4327 6067 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4302 6060 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4306 6046 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4317 6056 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4325 6067 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4317 6055 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4329 6047 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4304 6060 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4303 6058 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4302 6058 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4291 6070 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4297 6041 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4297 6071 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4299 6041 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4296 6073 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4297 6076 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4316 6080 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4298 6080 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4299 6038 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4295 6035 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4308 6032 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4298 6029 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4296 6027 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4303 6025 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4324 6027 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4324 6028 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4327 6029 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4327 6043 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4333 6030 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4335 6046 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4338 6027 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4338 6029 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4343 6023 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4343 6046 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4344 6046 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4353 6025 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4339 6061 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4336 6063 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4341 6073 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4338 6075 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4322 6077 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4321 6076 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4351 6051 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4353 6063 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4352 6063 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4324 6078 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4321 6091 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4324 6090 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4322 6091 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4337 6091 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4351 6063 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4321 6081 1
+//RSBOT DUMPED - null, 0
+15435 - 4322 6088 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4301 6088 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4299 6084 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4322 6100 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4324 6102 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4324 6106 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4330 6107 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4337 6093 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4332 6112 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4309 6113 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4308 6109 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4339 6116 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4342 6112 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4346 6093 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4348 6097 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4323 6120 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4343 6117 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4343 6113 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4324 6123 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4357 6116 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4359 6115 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4361 6103 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4360 6105 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4272 6048 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4363 6090 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4359 6129 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4340 6133 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4337 6132 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4346 6133 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4358 6133 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4356 6133 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4326 6134 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4350 6135 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4347 6135 1
+//RSBOT DUMPED - null, 0
+15431 - 4318 6128 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4311 6118 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4302 6113 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4300 6107 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4300 6104 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4299 6111 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4306 6123 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4295 6117 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4297 6128 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4323 6128 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4297 6130 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4318 6131 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4324 6137 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4349 6137 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4358 6133 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 4363 6133 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4366 6136 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4367 6139 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4371 6119 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4373 6123 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4374 6118 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4378 6122 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4381 6103 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4382 6103 1
+//RSBOT DUMPED - null, 0
+15431 - 4384 6103 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4389 6129 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4388 6133 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4391 6133 1
+//RSBOT DUMPED - null, 0
+15433 - 4391 6132 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4383 6101 1
+//RSBOT DUMPED - null, 0
+15432 - 4383 6135 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4383 6138 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 4392 6132 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4395 6129 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4403 6137 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4409 6118 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4401 6115 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4395 6114 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4401 6112 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4408 6109 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4402 6106 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4402 6104 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4409 6103 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4404 6088 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4386 6091 1
+//RSBOT DUMPED - null, 0
+15433 - 4382 6103 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4386 6089 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4388 6089 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4396 6085 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4377 6080 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4374 6079 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4374 6077 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4396 6077 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4404 6085 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4407 6083 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4409 6078 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4394 6076 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4395 6076 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4407 6073 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4407 6070 1
+//RSBOT DUMPED - null, 0
+15432 - 4405 6070 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4401 6066 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4360 6024 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4360 6024 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4399 6063 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4399 6049 1
+//RSBOT DUMPED - Earth essling, 0
+15406 - 4402 6049 1
+//RSBOT DUMPED - null, 0
+15434 - 4381 6060 1
+//RSBOT DUMPED - Blood esswraith, 0
+15415 - 4380 6059 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4380 6060 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4379 6058 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4378 6073 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4367 6065 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4366 6065 1
+//RSBOT DUMPED - Soul esswraith, 0
+15416 - 4365 6068 1
+//RSBOT DUMPED - Nature esshound, 0
+15412 - 4365 6086 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4364 6088 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4362 6089 1
+//RSBOT DUMPED - Astral esshound, 0
+15411 - 4402 6048 1
+//RSBOT DUMPED - Law esshound, 0
+15413 - 4399 6044 1
+//RSBOT DUMPED - Fire essling, 0
+15407 - 4397 6040 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4406 6039 1
+//RSBOT DUMPED - Cosmic esshound, 0
+15409 - 4411 6036 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4391 6034 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4389 6034 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4389 6030 1
+//RSBOT DUMPED - Body esshound, 0
+15408 - 4383 6045 1
+//RSBOT DUMPED - Death esswraith, 0
+15414 - 4382 6045 1
+//RSBOT DUMPED - Water essling, 0
+15405 - 4380 6022 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4380 6042 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4375 6028 1
+//RSBOT DUMPED - Air essling, 0
+15403 - 4375 6028 1
+//RSBOT DUMPED - Chaos esshound, 0
+15410 - 4367 6030 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4358 6042 1
+//RSBOT DUMPED - Mind essling, 0
+15404 - 4353 6025 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4358 6024 1
+//RSBOT DUMPED - Floating essence, 0
+15402 - 4370 6024 1
