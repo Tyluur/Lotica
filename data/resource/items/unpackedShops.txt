@@ -1,0 +1,4 @@
+//key money boolean(general store) - Name - item quantity and repeat
+1 995 true - Edgeville General Store - 1931 30 1935 10 1735 10 1925 30 1923 10 1887 10 590 10 1755 10 2347 10 550 10 9003 10
+2 995 true - Culinaromancer Items - 7453 50000 7454 50000 7455 50000 7455 50000 7456 50000 7457 50000 7458 50000 7459 50000 7460 50000 7461 50000 7462 50000
+3 995 true - Culinaromancer Food - 1973 50000

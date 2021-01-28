@@ -1,0 +1,297 @@
+'Rum'-pumped crab
+Aberrant spectre
+Abomination
+Abyssal demon
+Abyssal demon (elite)
+Abyssal leech
+Acheron mammoth
+Adamant dragon
+Air elemental
+Airut
+Alexis
+Ancient mage
+Ancient ranger
+Ankou
+Ankou (elite)
+Aquanite
+Aquanite (elite)
+Armoured zombie
+Arrg
+Automaton Generator
+Automaton Guardian
+Automaton Tracer
+Aviansie
+Bandit (Pollnivneach)
+Bandit (Wilderness)
+Banshee
+Barbarian
+Basilisk
+Black Guard
+Black Guard Berserker
+Black Guard crossbowdwarf
+Black Heather
+Black Knight
+Black Knight Titan
+Black demon
+Black dragon
+Bladed muspah
+Blissful shadow
+Blood nihil
+Blood reaver
+Bloodveld
+Blue dragon
+Boris
+Bork
+Brine rat
+Bronze dragon
+Brutal green dragon
+Cadarn magus
+Cadarn ranger
+Camel Warrior
+Catablepon
+Cave bug
+Cave crawler
+Cave horror
+Cave horror (elite)
+Cave slime
+Chaos Elemental
+Chaos Giant
+Chaos druid
+Chaos druid warrior
+Chaos dwarf
+Chaos dwarf hand cannoneer
+Chaos dwogre
+Cockatrice
+Cockroach drone
+Cockroach soldier
+Cockroach worker
+Columbarium
+Columbarium key
+Commander Zilyana
+Corporeal Beast
+Crawling hand
+Crystal Shapeshifter
+Cyclops
+Cyclossus
+Dagannoth (Lighthouse)
+Dagannoth (Waterbirth Island)
+Dagannoth (Waterbirth Island, ranged)
+Dagannoth Prime
+Dagannoth Rex
+Dagannoth Supreme
+Dagannoth guardian
+Dagannoth spawn
+Dark beast
+Dark beast (elite)
+Desert Lizard
+Desert strykewyrm
+Dried zombie
+Dust devil
+Dust devil (elite)
+Dwarf
+Earth elemental
+Earth warrior
+Earth warrior (elite)
+Edimmu
+Edimmu (elite)
+Eduard
+Elf warrior
+Elite Black Knight
+Elite Dark Ranger
+Elite Khazard guard
+Elite rune dragon
+Exiled Kalphite Queen
+Exiled kalphite guardian
+Exiled kalphite marauder
+Exiled kalphite soldier
+Experiment No.2
+Feral vampyre
+Ferocious barbarian spirit
+Fire elemental
+Fire giant
+Flesh Crawler
+Force muspah
+Frog
+Frost dragon
+Galina
+Ganodermic beast
+General Graardor
+General malpractitioner
+Georgy
+Ghast
+Ghostly warrior
+Giant Mole (historical)
+Giant ant soldier
+Giant ant worker
+Giant rock crab
+Giant skeleton (Lair of Tarn Razorlor)
+Giant skeleton (Shadow Dungeon)
+Giant wasp
+Glacor
+Gladius
+Glod
+Gnoeals
+Goblin statue
+Gorak
+Greater demon
+Greater demon (elite)
+Greater reborn mage
+Greater reborn ranger
+Greater reborn warrior
+Green dragon
+Grotworm
+Haakon the Champion
+Harold
+Harpie Bug Swarm
+Harpie Bug Swarm (elite)
+Hill giant
+Hobgoblin
+Hobgoblin (elite)
+Ice giant
+Ice nihil
+Ice strykewyrm
+Ice troll
+Ice troll female
+Ice troll male
+Ice troll runt
+Ice warrior
+Icefiend
+Icefiend (Ghorrock)
+Imre
+Iorwerth guard
+Iorwerth scout
+Irina
+Iron dragon
+Jelly
+Jeroen
+Jogre
+Joseph
+Jungle horror
+Jungle strykewyrm
+K'ril Tsutsaroth
+Kal'gerion demon
+Kalphite Guardian
+Kalphite King
+Kalphite Queen
+Kalphite Soldier
+Kalphite Worker
+Killerwatt
+King Black Dragon
+Kraka
+Kree'arra
+Ksenia
+Kurask
+Lanzig
+Lava strykewyrm
+Lesser demon
+Lesser reborn mage
+Lesser reborn ranger
+Lesser reborn warrior
+Lev
+Liliya
+Lizard
+Locust lancer
+Locust ranger
+Locust rider
+Manifest shadow
+Mature grotworm
+Mighty banshee
+Milla
+Minotaur
+Mithril dragon
+Molanisk
+Moss giant
+Mountain troll
+Mummy
+Mutated bloodveld
+Mutated zygomite
+Nechryael
+Nechryael (elite)
+Nex
+Nikita
+Nikolai
+Ogre
+Ogre statue
+Ork statue
+Otherworldly being
+Ourg statue
+Paladin
+Pee Hat
+Pirate
+Pyrefiend
+Queen Black Dragon
+Red dragon
+Ripper Demon
+Rock lobster
+Rockslug
+Rune dragon
+Salarin the Twisted
+Scabaras lancer
+Scarab mage
+Scutarius
+Sea Snake Hatchling
+Shadow nihil
+Shadow warrior
+Skeletal Wyvern
+Skeletal miner
+Skeleton
+Skeleton Mage
+Skeleton fremennik
+Skeleton thug
+Skeleton warlord
+Slasher Demon
+Small Lizard
+Smoke nihil
+Sofiya
+Soldier (Imperial Guard)
+Sorebones
+Speedy Keith
+Spiritual mage
+Spiritual warrior
+Steel dragon
+Stick
+Suqah
+Svetlana
+Terror dog
+Thrower Troll
+Throwing muspah
+Thug
+Tormented demon
+Tortured soul (Port Phasmatys)
+Trade floor guard
+Tribesman
+Troll general
+Troll spectator
+Truthful shadow
+Tstanon Karlak
+Turoth
+Tyras guard
+TzHaar-Hur
+TzHaar-Ket
+TzHaar-Mej
+TzHaar-Xil
+Undead troll
+Vera
+Vyre corpse
+Vyrelady
+Vyrelord
+Vyrewatch
+Wallasalki
+Warped terrorbird
+Warped tortoise
+Warrior (Rellekka)
+Water elemental
+Waterfiend
+Waterfiend (elite)
+Werewolf
+White Knight
+WildyWyrm (historical)
+Wyvern
+Wyvern (elite)
+Yadviga
+Yeti
+Yuri
+Zoja
+Zombie
+Zombie hand
+Zombie swab

@@ -1,0 +1,24 @@
+{
+  "examine": "<i>Charged:A spiked square shield.<br /><i>Uncharged:Not so spiky anymore.",
+  "bonuses": [
+    0,
+    0,
+    0,
+    -6,
+    -2,
+    25,
+    27,
+    23,
+    0,
+    25,
+    26,
+    3,
+    0,
+    6,
+    1,
+    0,
+    0,
+    0
+  ],
+  "realPrice": 2253
+}

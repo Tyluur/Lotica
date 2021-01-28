@@ -1,0 +1,85 @@
+{
+  "drops": [],
+  "bonuses": {
+    "912": [
+      0,
+      0,
+      0,
+      85,
+      0,
+      75,
+      75,
+      75,
+      75,
+      75
+    ],
+    "913": [
+      0,
+      0,
+      0,
+      85,
+      0,
+      75,
+      75,
+      75,
+      75,
+      75
+    ],
+    "914": [
+      0,
+      0,
+      0,
+      85,
+      0,
+      75,
+      75,
+      75,
+      75,
+      75
+    ]
+  },
+  "combatDefinitions": {
+    "912": {
+      "hitpoints": 1000,
+      "attackAnim": -1,
+      "defenceAnim": -1,
+      "deathAnim": -1,
+      "attackDelay": 4,
+      "deathDelay": 1,
+      "respawnDelay": 60,
+      "maxHit": 200,
+      "attackStyle": 2,
+      "attackGfx": -1,
+      "attackProjectile": -1,
+      "aggressivenessType": 0
+    },
+    "913": {
+      "hitpoints": 1000,
+      "attackAnim": -1,
+      "defenceAnim": -1,
+      "deathAnim": -1,
+      "attackDelay": 4,
+      "deathDelay": 1,
+      "respawnDelay": 60,
+      "maxHit": 200,
+      "attackStyle": 2,
+      "attackGfx": -1,
+      "attackProjectile": -1,
+      "aggressivenessType": 0
+    },
+    "914": {
+      "hitpoints": 1000,
+      "attackAnim": -1,
+      "defenceAnim": -1,
+      "deathAnim": -1,
+      "attackDelay": 4,
+      "deathDelay": 1,
+      "respawnDelay": 60,
+      "maxHit": 200,
+      "attackStyle": 2,
+      "attackGfx": -1,
+      "attackProjectile": -1,
+      "aggressivenessType": 0
+    }
+  }
+}

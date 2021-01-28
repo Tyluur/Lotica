@@ -1,0 +1,2894 @@
+2 - 260
+6 - 178170
+8 - 171757
+10 - 180427
+12 - 178565
+36 - 64
+39 - 12
+40 - 16
+41 - 40
+42 - 73
+43 - 132
+44 - 849
+45 - 1
+46 - 3
+47 - 42
+48 - 19
+50 - 4
+52 - 8
+53 - 35
+54 - 13
+56 - 23
+58 - 48
+60 - 28
+62 - 93
+64 - 52
+66 - 506
+68 - 149
+70 - 1374
+72 - 694
+91 - 178
+93 - 27
+95 - 94
+97 - 138
+99 - 1802
+101 - 953
+103 - 1629
+105 - 784
+107 - 587
+109 - 2615
+111 - 16831
+113 - 4 dose: 1165 coins3 dose: 876 coins2 dose: 621 coins1 dose: 293      coins
+115 - 4 dose: 1165 coins3 dose: 876 coins2 dose: 621 coins1 dose: 293      coins
+117 - 4 dose: 1165 coins3 dose: 876 coins2 dose: 621 coins1 dose: 293      coins
+119 - 4 dose: 1165 coins3 dose: 876 coins2 dose: 621 coins1 dose: 293      coins
+121 - 4 dose: 288 coins3 dose: 217 coins2 dose: 125 coins1 dose: 90      coins
+123 - 4 dose: 288 coins3 dose: 217 coins2 dose: 125 coins1 dose: 90      coins
+125 - 4 dose: 288 coins3 dose: 217 coins2 dose: 125 coins1 dose: 90      coins
+127 - 4 dose: 73 coins3 dose: 37 coins2 dose: 17 coins1 dose: 15      coins
+129 - 4 dose: 73 coins3 dose: 37 coins2 dose: 17 coins1 dose: 15      coins
+131 - 4 dose: 73 coins3 dose: 37 coins2 dose: 17 coins1 dose: 15      coins
+133 - 4 dose: 519 coins3 dose: 400 coins2 dose: 254 coins1 dose: 171      coins
+135 - 4 dose: 519 coins3 dose: 400 coins2 dose: 254 coins1 dose: 171      coins
+137 - 4 dose: 519 coins3 dose: 400 coins2 dose: 254 coins1 dose: 171      coins
+139 - 4 dose: 2300 coins3 dose: 1595 coins2 dose: 1103 coins1 dose: 538      coins
+141 - 4 dose: 2300 coins3 dose: 1595 coins2 dose: 1103 coins1 dose: 538      coins
+143 - 4 dose: 2300 coins3 dose: 1595 coins2 dose: 1103 coins1 dose: 538      coins
+145 - 4 dose: 444 coins3 dose: 333 coins2 dose: 207 coins1 dose: 142      coins
+147 - 4 dose: 444 coins3 dose: 333 coins2 dose: 207 coins1 dose: 142      coins
+149 - 4 dose: 444 coins3 dose: 333 coins2 dose: 207 coins1 dose: 142      coins
+151 - 4 dose: 68 coins3 dose: 45 coins2 dose: 57 coins1 dose: 63      coins
+153 - 4 dose: 68 coins3 dose: 45 coins2 dose: 57 coins1 dose: 63      coins
+155 - 4 dose: 68 coins3 dose: 45 coins2 dose: 57 coins1 dose: 63      coins
+157 - 4 dose: 1172 coins3 dose: 838 coins2 dose: 714 coins1 dose: 373      coins
+159 - 4 dose: 1172 coins3 dose: 838 coins2 dose: 714 coins1 dose: 373      coins
+161 - 4 dose: 1172 coins3 dose: 838 coins2 dose: 714 coins1 dose: 373      coins
+163 - 4 dose: 127 coins3 dose: 76 coins2 dose: 51 coins1 dose: 43      coins
+165 - 4 dose: 127 coins3 dose: 76 coins2 dose: 51 coins1 dose: 43      coins
+167 - 4 dose: 127 coins3 dose: 76 coins2 dose: 51 coins1 dose: 43      coins
+169 - 4 dose: 3799 coins3 dose: 2877 coins2 dose: 1930 coins1 dose: 918      coins
+171 - 4 dose: 3799 coins3 dose: 2877 coins2 dose: 1930 coins1 dose: 918      coins
+173 - 4 dose: 3799 coins3 dose: 2877 coins2 dose: 1930 coins1 dose: 918      coins
+175 - 4 dose: 1147 coins3 dose: 807 coins2 dose: 571 coins1 dose: 361      coins
+177 - 4 dose: 1147 coins3 dose: 807 coins2 dose: 571 coins1 dose: 361      coins
+179 - 4 dose: 1147 coins3 dose: 807 coins2 dose: 571 coins1 dose: 361      coins
+181 - 4 dose: 1261 coins3 dose: 870 coins2 dose: 543 coins1 dose: 278      coins
+183 - 4 dose: 1261 coins3 dose: 870 coins2 dose: 543 coins1 dose: 278      coins
+185 - 4 dose: 1261 coins3 dose: 870 coins2 dose: 543 coins1 dose: 278      coins
+187 - 38
+189 - 4 dose: 5909 coins3 dose: 3069 coins2 dose: 1255 coins1 dose: 1380      coins
+191 - 4 dose: 5909 coins3 dose: 3069 coins2 dose: 1255 coins1 dose: 1380      coins
+193 - 4 dose: 5909 coins3 dose: 3069 coins2 dose: 1255 coins1 dose: 1380      coins
+195 - 158
+197 - 149
+199 - 43
+201 - 12
+203 - 21
+205 - 38
+207 - 1701
+209 - 881
+211 - 1544
+213 - 664
+215 - 480
+217 - 2357
+219 - 32023
+221 - 25
+223 - 434
+225 - 1098
+227 - 21
+229 - 2
+231 - 286
+233 - 67
+235 - 973
+237 - 901
+239 - 901
+241 - 1031
+243 - 919
+245 - 1820
+247 - 56
+249 - 61
+251 - 13
+253 - 18
+255 - 37
+257 - 1740
+259 - 910
+261 - 1611
+263 - 656
+265 - 440
+267 - 2370
+269 - 32455
+288 - 241
+299 - 408
+301 - 40
+303 - 468
+305 - 94
+307 - 47
+309 - 37
+311 - 186
+313 - 4
+314 - 19
+317 - 5
+319 - 18
+321 - 6
+325 - 25
+331 - 122
+335 - 77
+339 - 59
+341 - 31
+345 - 116
+347 - 121
+349 - 135
+351 - 134
+353 - 13
+355 - 23
+359 - 128
+361 - 177
+363 - 294
+365 - 204
+371 - 290
+373 - 287
+379 - 193
+383 - 524
+385 - 587
+389 - 2077
+391 - 2360
+395 - 2271
+397 - 2500
+401 - 412
+403 - 178
+405 - 3013
+407 - 35
+411 - 24
+413 - 691
+434 - 156
+436 - 67
+438 - 32
+440 - 164
+442 - 134
+444 - 323
+447 - 439
+449 - 1714
+451 - 10321
+453 - 218
+464 - 250
+528 - 413
+530 - 413
+532 - 452
+534 - 867
+536 - 2739
+538 - Top: 85 coinsBottom: 49        coins
+540 - Top: 85 coinsBottom: 49        coins
+554 - 15
+555 - 7
+556 - 9
+557 - 8
+558 - 5
+559 - 5
+560 - 387
+561 - 117
+562 - 52
+563 - 215
+564 - 209
+565 - 335
+566 - 132
+567 - 540
+569 - 1948
+571 - 1625
+573 - 1790
+575 - 1965
+577 - 1162
+581 - 717
+590 - 112
+592 - 249
+596 - 1
+598 - 204
+600 - 745
+626 - 626
+628 - 432
+630 - 654
+632 - 678
+634 - 224
+636 - 274
+638 - 235
+640 - 414
+642 - 419
+644 - 72
+646 - 225
+648 - 198
+650 - 438
+652 - 345
+654 - 80
+656 - 611
+658 - 480
+660 - 516
+662 - 1073
+664 - 285
+753 - 85
+800 - 6
+801 - 13
+802 - 59
+803 - 140
+804 - 152
+805 - 290
+806 - 41
+807 - 43
+808 - 24
+809 - 38
+810 - 54
+811 - 111
+812 - 41
+813 - 43
+814 - 24
+815 - 38
+816 - 54
+817 - 111
+819 - 27
+820 - 26
+821 - 74
+822 - 116
+823 - 205
+824 - 556
+825 - 7
+826 - 3
+827 - 19
+828 - 28
+829 - 57
+830 - 252
+831 - 7
+832 - 3
+833 - 19
+834 - 28
+835 - 57
+836 - 252
+837 - 285
+839 - 95
+841 - 57
+843 - 30
+845 - 96
+847 - 137
+849 - 91
+851 - 303
+853 - 237
+855 - 670
+857 - 398
+859 - 1441
+861 - 905
+863 - 58
+864 - 54
+865 - 95
+866 - 194
+867 - 370
+868 - 1226
+869 - 74
+870 - 54
+871 - 58
+872 - 95
+873 - 194
+874 - 74
+875 - 370
+876 - 1226
+877 - 10
+878 - 10
+879 - 6
+880 - 38
+881 - 55
+882 - 8
+883 - 8
+884 - 8
+885 - 8
+886 - 19
+887 - 19
+888 - 24
+889 - 24
+890 - 87
+891 - 87
+892 - 196
+893 - 196
+942 - 204
+948 - 86
+950 - 20
+954 - 109
+958 - 37
+960 - 302
+962 - 1977646379
+970 - 200
+973 - 255
+975 - 265
+981 - 255754845
+983 - 574
+985 - 17354
+987 - 14218
+989 - 33179
+991 - 3850
+993 - 35263
+1005 - 138
+1007 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1009 - 87
+1011 - 226
+1013 - 253
+1015 - 78
+1019 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1021 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1023 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1025 - 220
+1027 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1029 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1031 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+1038 - 1205602743
+1040 - 935717295
+1042 - 2147483647
+1044 - 1091361155
+1046 - 848088010
+1048 - 1645956624
+1050 - 92622468
+1053 - 79902217
+1055 - 93997265
+1057 - 129288184
+1059 - 14
+1061 - 228
+1063 - 10
+1065 - 1408
+1067 - 66
+1069 - 460
+1071 - 1396
+1073 - 3678
+1075 - 16
+1077 - 1963
+1079 - 38000
+1081 - 145
+1083 - 469
+1085 - 1414
+1087 - 71
+1089 - 2388
+1091 - 3829
+1093 - 37560
+1095 - 6
+1097 - 365
+1099 - 2226
+1101 - 63
+1103 - 58
+1105 - 320
+1107 - 875
+1109 - 1004
+1111 - 2760
+1113 - 29464
+1115 - 339
+1117 - 38
+1119 - 1083
+1121 - 2998
+1123 - 9796
+1125 - 4248
+1127 - 38738
+1129 - 50
+1131 - 46
+1133 - 428
+1135 - 4568
+1137 - 20
+1139 - 61
+1141 - 81
+1143 - 342
+1145 - 1027
+1147 - 11267
+1149 - 59285
+1151 - 848
+1153 - 28
+1155 - 35
+1157 - 211
+1159 - 713
+1161 - 1886
+1163 - 20864
+1165 - 647
+1167 - 12
+1169 - 60
+1171 - 788
+1173 - 25
+1175 - 31
+1177 - 224
+1179 - 558
+1181 - 763
+1183 - 2128
+1185 - 22695
+1187 - 316692
+1189 - 27
+1191 - 56
+1193 - 384
+1195 - 2801
+1197 - 1126
+1199 - 3083
+1201 - 32422
+1203 - 19
+1205 - 81
+1207 - 25
+1209 - 78
+1211 - 346
+1213 - 4540
+1215 - 17329
+1217 - 96
+1219 - 19
+1221 - 81
+1223 - 25
+1225 - 78
+1227 - 346
+1229 - 4540
+1231 - 17329
+1233 - 96
+1237 - 271
+1239 - 350
+1241 - 545
+1243 - 381
+1245 - 1092
+1247 - 12310
+1249 - 37134
+1251 - 271
+1253 - 350
+1255 - 545
+1257 - 381
+1259 - 1092
+1261 - 12310
+1263 - 37134
+1265 - 51
+1267 - 111
+1269 - 375
+1271 - 1819
+1273 - 668
+1275 - 18983
+1279 - 14
+1281 - 119
+1285 - 378
+1287 - 1049
+1289 - 12399
+1291 - 23
+1293 - 32
+1295 - 187
+1297 - 461
+1299 - 631
+1301 - 1782
+1303 - 18765
+1305 - 63013
+1307 - 51
+1309 - 65
+1311 - 473
+1313 - 1092
+1315 - 1405
+1317 - 3704
+1319 - 38182
+1321 - 26
+1323 - 41
+1325 - 125
+1327 - 6712
+1329 - 491
+1331 - 1481
+1333 - 15193
+1335 - 36
+1337 - 8
+1339 - 317
+1341 - 618
+1343 - 1083
+1345 - 3027
+1347 - 24960
+1349 - 8
+1357 - 669
+1359 - 7584
+1361 - 300
+1363 - 45
+1365 - 271
+1367 - 623
+1369 - 861
+1371 - 2341
+1373 - 24561
+1375 - 27
+1377 - 121462
+1379 - 15
+1381 - 793
+1383 - 790
+1385 - 941
+1387 - 1084
+1389 - 54
+1391 - 7434
+1393 - 9141
+1395 - 9002
+1397 - 8878
+1399 - 9144
+1401 - 25609
+1403 - 25275
+1405 - 25426
+1407 - 25030
+1420 - 14
+1422 - 33
+1424 - 51
+1426 - 865
+1428 - 221
+1430 - 713
+1432 - 8447
+1434 - 29264
+1436 - 32
+1438 - 107
+1440 - 941
+1442 - 2694
+1444 - 6450
+1446 - 430
+1448 - 147
+1450 - 1730
+1452 - 361
+1454 - 490
+1456 - 1301
+1458 - 262
+1462 - 389
+1464 - 8
+1470 - 218
+1472 - 489
+1474 - 624
+1476 - 943
+1478 - 2884
+1511 - 135
+1513 - 1441
+1515 - 486
+1517 - 39
+1519 - 16
+1521 - 60
+1523 - 1092
+1539 - 40
+1540 - 462
+1550 - 31
+1592 - 58
+1595 - 69
+1597 - 109
+1599 - 440
+1601 - 9909
+1603 - 1250
+1605 - 547
+1607 - 277
+1609 - 23
+1613 - 62
+1615 - 19257
+1617 - 11975
+1619 - 3029
+1621 - 1225
+1623 - 690
+1625 - 22
+1627 - 61
+1629 - 118
+1631 - 20913
+1635 - 175
+1637 - 501
+1639 - 830
+1641 - 1139
+1643 - 3410
+1645 - 18304
+1654 - 194
+1656 - 537
+1658 - 757
+1660 - 1196
+1662 - 10322
+1664 - 21962
+1673 - 138
+1675 - 453
+1677 - 673
+1679 - 1093
+1681 - 1962
+1683 - 18248
+1692 - 138
+1694 - 453
+1696 - 673
+1698 - 1093
+1700 - 1962
+1702 - 18248
+1704 - Uncharged: 18529 coinsCharged: 19886        coins
+1712 - Uncharged: 18529 coinsCharged: 19886        coins
+1714 - 96
+1716 - 49
+1718 - 113
+1720 - 169
+1722 - 22
+1724 - 49
+1725 - 1206
+1727 - 503
+1729 - 693
+1731 - 2055
+1733 - 3
+1734 - 7
+1735 - 25
+1737 - 159
+1739 - 283
+1741 - 364
+1743 - 364
+1745 - 1786
+1747 - 4898
+1749 - 2831
+1751 - 2134
+1753 - 1639
+1755 - 14
+1757 - 73
+1759 - 118
+1761 - 205
+1763 - 1383
+1765 - 214
+1767 - 456
+1769 - 1854
+1771 - 362
+1773 - 309
+1775 - 619
+1777 - 115
+1779 - 61
+1781 - 486
+1783 - 274
+1785 - 59
+1787 - 63
+1789 - 114
+1791 - 183
+1793 - 17
+1794 - 236
+1823 - Full: 188 coinsEmpty: 110        coins
+1831 - Full: 188 coinsEmpty: 110        coins
+1833 - 73
+1835 - 95
+1837 - 259
+1859 - Raw: 514 coinsCooked: 714        coins
+1861 - Raw: 514 coinsCooked: 714        coins
+1863 - 94
+1865 - 23
+1869 - 94
+1871 - 148
+1873 - 348
+1875 - 31
+1877 - 330
+1879 - 331
+1881 - 412
+1883 - Fresh: 662 coins updateStrange smelling: 2115 update
+1885 - Fresh: 662 coins updateStrange smelling: 2115 update
+1887 - 14
+1889 - 623
+1905 - Glass: 138 coinsKeg (4): 12571 coinsKeg (3): 9230 coinsKeg (2): 6103 coinsKeg (1): 3344     coins
+1907 - Glass: 131 coinsKeg (4): 5108 coinsKeg (3): 4047 coinsKeg (2): 2721 coinsKeg (1): 1495     coins
+1909 - Glass: 731 coinsKeg (4): 5868 coinsKeg (3): 7534 coinsKeg (2): 4624 coinsKeg (1): 3658     coins
+1911 - Glass: 536 coinsKeg (4): 5756 coinsKeg (3): 4845 coinsKeg (2): 3259 coinsKeg (1): 1673     coins
+1913 - Glass: 113 coinsKeg (4): 5401 coinsKeg (3): 5031 coinsKeg (2): 3211 coinsKeg (1): 1989     coins
+1915 - 19
+1917 - 79
+1919 - 25
+1921 - 87
+1923 - 25
+1925 - 49
+1927 - 83
+1929 - 75
+1931 - 3
+1933 - 137
+1935 - 216
+1937 - 276
+1939 - 56
+1940 - 1
+1941 - 1
+1942 - 99
+1944 - 184
+1947 - 14
+1949 - 377
+1951 - 389
+1953 - 370
+1955 - 308
+1957 - 25
+1959 - 223277929
+1961 - 59158995
+1963 - 154
+1965 - 40
+1971 - 175
+1973 - 226
+1975 - 279
+1978 - 40
+1980 - 11
+1982 - 194
+1985 - 123
+1987 - 861
+1989 - 237495857
+1993 - 60
+2001 - 694
+2003 - 584
+2009 - 1431
+2015 - 434
+2019 - 175
+2034 - 47
+2038 - 33
+2054 - 740
+2064 - Premade: 81 coinsPlayer-made: 2649        coins
+2074 - 281
+2080 - 983
+2084 - 2246
+2092 - 577
+2102 - 196
+2104 - 31
+2108 - 750
+2110 - 49
+2112 - 186
+2114 - 35
+2116 - 39
+2118 - 18
+2120 - 151
+2122 - 18
+2124 - 31
+2126 - 173
+2128 - 394
+2130 - 59
+2132 - 138
+2134 - 69
+2136 - 165
+2138 - 184
+2140 - 82
+2142 - 75
+2150 - 513
+2152 - 380
+2162 - 37
+2169 - 39
+2171 - 20
+2185 - 5210
+2191 - 475
+2195 - 514
+2217 - 2895
+2227 - 134
+2229 - 1667
+2231 - 1065
+2233 - 247
+2235 - 242
+2237 - 76
+2239 - 95
+2241 - 103
+2243 - 46
+2253 - 154
+2255 - 280
+2259 - 266
+2277 - 310
+2281 - 248
+2283 - 344
+2285 - 539
+2287 - 982
+2289 - Plain pizza: 1030 coins 1/2 plain pizza: 251
+2291 - Plain pizza: 1030 coins 1/2 plain pizza: 251
+2293 - Meat pizza: 760 coins 1/2 meat pizza: 353
+2295 - Meat pizza: 760 coins 1/2 meat pizza: 353
+2297 - Anchovy pizza: 1230 coins 1/2 anchovy pizza: 82
+2299 - Anchovy pizza: 1230 coins 1/2 anchovy pizza: 82
+2301 - Pineapple pizza: 1034 coins 1/2 p'apple pizza: 153
+2307 - 84
+2309 - 101
+2313 - 272
+2315 - 853
+2317 - 1014
+2319 - 948
+2321 - 1120
+2323 - Apple pie: 273 coinsHalf an apple pie: 194        coins
+2325 - Redberry pie: 796 coinsHalf a redberry pie: 271        coins
+2327 - Meat pie: 220 coinsHalf a meat pie: 230        coins
+2331 - Meat pie: 220 coinsHalf a meat pie: 230        coins
+2333 - Redberry pie: 796 coinsHalf a redberry pie: 271        coins
+2335 - Apple pie: 273 coinsHalf an apple pie: 194        coins
+2337 - 168
+2341 - 905
+2343 - 1158
+2347 - 51
+2349 - 161
+2351 - 244
+2353 - 743
+2355 - 130
+2357 - 115
+2359 - 1494
+2361 - 2104
+2363 - 12928
+2366 - 63895
+2368 - 748187
+2370 - 597
+2391 - 326
+2428 - 4 dose: 288 coins3 dose: 217 coins2 dose: 125 coins1 dose: 90      coins
+2430 - 4 dose: 73 coins3 dose: 37 coins2 dose: 17 coins1 dose: 15      coins
+2432 - 4 dose: 519 coins3 dose: 400 coins2 dose: 254 coins1 dose: 171      coins
+2434 - 4 dose: 2300 coins3 dose: 1595 coins2 dose: 1103 coins1 dose: 538      coins
+2436 - 4 dose: 444 coins3 dose: 333 coins2 dose: 207 coins1 dose: 142      coins
+2438 - 4 dose: 68 coins3 dose: 45 coins2 dose: 57 coins1 dose: 63      coins
+2440 - 4 dose: 1172 coins3 dose: 838 coins2 dose: 714 coins1 dose: 373      coins
+2442 - 4 dose: 127 coins3 dose: 76 coins2 dose: 51 coins1 dose: 43      coins
+2444 - 4 dose: 3799 coins3 dose: 2877 coins2 dose: 1930 coins1 dose: 918      coins
+2446 - 4 dose: 1147 coins3 dose: 807 coins2 dose: 571 coins1 dose: 361      coins
+2450 - 4 dose: 5909 coins3 dose: 3069 coins2 dose: 1255 coins1 dose: 1380      coins
+2452 - 4 dose: 3220 coins3 dose: 2433 coins2 dose: 1823 coins1 dose: 912      coins
+2458 - 4 dose: 3220 coins3 dose: 2433 coins2 dose: 1823 coins1 dose: 912      coins
+2460 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2462 - Not sold
+2464 - Not sold
+2466 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2468 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2470 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2472 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2474 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2476 - Pastel: 347 coinsRed: 402 coinsBlue: 365 coinsYellow: 333 coinsPurple: 339 coinsOrange: 396 coinsMixed: 383 coinsWhite: 10142 coinsBlack: 1844
+2481 - 3003
+2483 - 2948
+2485 - 2981
+2487 - 1657
+2489 - 2070
+2491 - 2554
+2493 - 2470
+2495 - 3151
+2497 - 8145
+2499 - 5459
+2501 - 6559
+2503 - 7974
+2505 - 2282
+2507 - 3015
+2509 - 5298
+2532 - 321
+2533 - 321
+2534 - 342
+2535 - 342
+2536 - 52
+2537 - 52
+2538 - 137
+2539 - 137
+2540 - 671
+2541 - 671
+2550 - 957
+2552 - 8 charges: 1197 coins1 charge: 643        coins
+2566 - 8 charges: 1197 coins1 charge: 643        coins
+2568 - 1107
+2570 - 3709
+2572 - Uncharged: 20303 coinsCharged: 21905        coins
+2577 - 12259971
+2579 - 764305
+2581 - 3421943
+2583 - 73855
+2585 - 32466
+2587 - 55324
+2589 - 67196
+2591 - 171495
+2593 - 92409
+2595 - 194925
+2597 - 225878
+2599 - 68087
+2601 - 14740
+2603 - 34981
+2605 - 61401
+2607 - 168126
+2609 - 50514
+2611 - 119501
+2613 - 151324
+2615 - 199259
+2617 - 93951
+2619 - 156400
+2621 - 160439
+2623 - 46047
+2625 - 41634
+2627 - 49958
+2629 - 71791
+2631 - 83987
+2633 - 65617
+2635 - 162038
+2637 - 285176
+2639 - 63063
+2641 - 20277
+2643 - 416029
+2645 - 111459
+2647 - 43249
+2649 - 22208
+2651 - 82815
+2653 - 663722
+2655 - 189717
+2657 - 507167
+2659 - 418208
+2661 - 1132000
+2663 - 341895
+2665 - 772202
+2667 - 626588
+2669 - 256968
+2671 - 118423
+2673 - 270460
+2675 - 219913
+2859 - 817
+2861 - 3
+2862 - 224
+2864 - 46
+2865 - 196
+2866 - 34
+2876 - 2041
+2890 - 390
+2896 - Blue: 414 coinsCream: 419 coinsGreen: 235 coinsPink: 274 coinsTurquoise: 72     coins
+2906 - Blue: 414 coinsCream: 419 coinsGreen: 235 coinsPink: 274 coinsTurquoise: 72     coins
+2916 - Blue: 414 coinsCream: 419 coinsGreen: 235 coinsPink: 274 coinsTurquoise: 72     coins
+2926 - Blue: 414 coinsCream: 419 coinsGreen: 235 coinsPink: 274 coinsTurquoise: 72     coins
+2936 - Blue: 414 coinsCream: 419 coinsGreen: 235 coinsPink: 274 coinsTurquoise: 72     coins
+2955 - Glass: 13 coinsKeg (4): 4883 coinsKeg (3): 3721 coinsKeg (2): 2510 coinsKeg (1): 1298     coins
+2961 - 23
+2972 - 439
+2974 - 1137
+2976 - 242
+2997 - 1550891
+2998 - 3116
+3000 - 10033
+3002 - 3027
+3004 - 8748
+3008 - 4 dose: 47 coins3 dose: 16 coins2 dose: 14 coins1 dose: 8      coins
+3010 - 4 dose: 47 coins3 dose: 16 coins2 dose: 14 coins1 dose: 8      coins
+3012 - 4 dose: 47 coins3 dose: 16 coins2 dose: 14 coins1 dose: 8      coins
+3014 - 4 dose: 47 coins3 dose: 16 coins2 dose: 14 coins1 dose: 8      coins
+3016 - 4 dose: 1579 coins3 dose: 1265 coins2 dose: 1141 coins1 dose: 640      coins
+3018 - 4 dose: 1579 coins3 dose: 1265 coins2 dose: 1141 coins1 dose: 640      coins
+3020 - 4 dose: 1579 coins3 dose: 1265 coins2 dose: 1141 coins1 dose: 640      coins
+3022 - 4 dose: 1579 coins3 dose: 1265 coins2 dose: 1141 coins1 dose: 640      coins
+3024 - 4 dose: 12418 coins3 dose: 8913 coins2 dose: 5572 coins1 dose: 2693      coins
+3026 - 4 dose: 12418 coins3 dose: 8913 coins2 dose: 5572 coins1 dose: 2693      coins
+3028 - 4 dose: 12418 coins3 dose: 8913 coins2 dose: 5572 coins1 dose: 2693      coins
+3030 - 4 dose: 12418 coins3 dose: 8913 coins2 dose: 5572 coins1 dose: 2693      coins
+3032 - 4 dose: 247 coins3 dose: 126 coins2 dose: 126 coins1 dose: 183      coins
+3034 - 4 dose: 247 coins3 dose: 126 coins2 dose: 126 coins1 dose: 183      coins
+3036 - 4 dose: 247 coins3 dose: 126 coins2 dose: 126 coins1 dose: 183      coins
+3038 - 4 dose: 247 coins3 dose: 126 coins2 dose: 126 coins1 dose: 183      coins
+3040 - 4 dose: 3387 coins3 dose: 2572 coins2 dose: 1765 coins1 dose: 903      coins
+3042 - 4 dose: 3387 coins3 dose: 2572 coins2 dose: 1765 coins1 dose: 903      coins
+3044 - 4 dose: 3387 coins3 dose: 2572 coins2 dose: 1765 coins1 dose: 903      coins
+3046 - 4 dose: 3387 coins3 dose: 2572 coins2 dose: 1765 coins1 dose: 903      coins
+3049 - 3104
+3051 - 9891
+3053 - 10071
+3054 - 31409
+3093 - 669
+3094 - 669
+3095 - 423
+3096 - 13
+3097 - 34
+3098 - 2522
+3099 - 145
+3100 - 593
+3101 - 7487
+3105 - 61567
+3122 - 33994
+3123 - 2256
+3125 - 860
+3138 - 1111
+3140 - 2907974
+3142 - 1556
+3144 - 883
+3157 - 251
+3162 - 35
+3183 - 460
+3188 - 260
+3190 - 607
+3192 - 162
+3194 - 912
+3196 - 5517
+3198 - 7085
+3200 - 4790
+3202 - 75612
+3204 - 202515
+3211 - 190
+3216 - 228
+3226 - 163
+3228 - 30
+3239 - 19
+3325 - 309
+3327 - Rounded: 56 coinsPointed: 52        coins
+3329 - Rounded: 134 coinsPointed: 312        coins
+3331 - 49
+3333 - Normal: 61 update coinsPointed: 127 update
+3335 - 53
+3337 - Rounded: 56 coinsPointed: 52        coins
+3339 - Rounded: 134 coinsPointed: 312        coins
+3341 - 49
+3343 - Normal: 61 update coinsPointed: 127 update
+3345 - Normal: 169 update coinsPointed: 170 update
+3347 - Normal: 518 update coinsPointed: 587 update
+3349 - Normal: 148 update coinsPointed: 188 update
+3351 - Normal: 244 update coinsPointed: 831 update
+3353 - 206
+3355 - Normal: 169 update coinsPointed: 170 update
+3357 - Normal: 518 update coinsPointed: 587 update
+3359 - Normal: 148 update coinsPointed: 188 update
+3361 - Normal: 244 update coinsPointed: 831 update
+3363 - 1120
+3365 - 876
+3367 - 659
+3369 - 567
+3371 - 259
+3373 - 498
+3377 - 16
+3379 - 464
+3381 - 280
+3385 - 5676
+3387 - 26978
+3389 - 36177
+3391 - 2885
+3393 - 3811
+3396 - 20
+3398 - 226
+3400 - 70
+3402 - 170
+3404 - 2330
+3406 - 165
+3424 - 4 dose: 762 coins3 dose: 554 coins2 dose: 180 coins1 dose: 118      coins
+3438 - 789
+3440 - 1092
+3442 - 1391
+3444 - 2830
+3446 - 3975
+3448 - 4869
+3470 - 911
+3472 - 2548
+3473 - 7486
+3474 - 3879
+3475 - 9035
+3476 - 37866
+3477 - 40667
+3478 - 42151
+3479 - 38163
+3480 - 41657
+3481 - 1603304
+3483 - 518763
+3485 - 93114
+3486 - 441207
+3488 - 579741
+3749 - 46440
+3751 - 49705
+3753 - 46985
+3755 - 46964
+3759 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3761 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3763 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3765 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3767 - Blue: 452 coinsBrown: 116 coinsGrey: 483 coinsRed: 510 coinsTan: 234     coins
+3769 - Blue: 452 coinsBrown: 116 coinsGrey: 483 coinsRed: 510 coinsTan: 234     coins
+3771 - Blue: 452 coinsBrown: 116 coinsGrey: 483 coinsRed: 510 coinsTan: 234     coins
+3773 - Blue: 452 coinsBrown: 116 coinsGrey: 483 coinsRed: 510 coinsTan: 234     coins
+3775 - Blue: 452 coinsBrown: 116 coinsGrey: 483 coinsRed: 510 coinsTan: 234     coins
+3777 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3779 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3781 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3783 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3785 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3787 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3789 - Brown: 49 coinsPurple: 325 coinsRed: 621 coinsGrey: 798 coinsLavender: 600 coinsBlack: 894 coinsPink: 296 coinsTeal: 538 coinsGold: 655
+3791 - 269
+3793 - 1057
+3795 - 706
+3797 - 2422
+3801 - 1683
+3803 - 79
+3827 - 1083613
+3828 - 748998
+3829 - 504121
+3830 - 540018
+3831 - 5901967
+3832 - 4592469
+3833 - 4958895
+3834 - 4679487
+3835 - 909982
+3836 - 957697
+3837 - 791151
+3838 - 1129655
+3853 - 8 charges: 881 coins1 charge: 2984        coins
+3867 - 8 charges: 881 coins1 charge: 2984        coins
+4087 - 166167
+4089 - light: 8522 coinsdark: 22147 coinsblue: 14791       coins
+4091 - light: 75026 coinsdark: 71815 coinsblue: 73106       coins
+4093 - Mystic robe bottom (light): 47057 coinsMystic robe bottom (dark): 47975 coinsMystic robe bottom (blue): 48688       coins
+4095 - light: 291661 coinsdark: 6250 coinsblue: 5914       coins
+4097 - light: 38886 coinsdark: 144288 coinsblue: 6964       coins
+4099 - light: 8522 coinsdark: 22147 coinsblue: 14791       coins
+4101 - light: 75026 coinsdark: 71815 coinsblue: 73106       coins
+4103 - Mystic robe bottom (light): 47057 coinsMystic robe bottom (dark): 47975 coinsMystic robe bottom (blue): 48688       coins
+4105 - light: 291661 coinsdark: 6250 coinsblue: 5914       coins
+4107 - light: 38886 coinsdark: 144288 coinsblue: 6964       coins
+4109 - light: 8522 coinsdark: 22147 coinsblue: 14791       coins
+4111 - light: 75026 coinsdark: 71815 coinsblue: 73106       coins
+4113 - Mystic robe bottom (light): 47057 coinsMystic robe bottom (dark): 47975 coinsMystic robe bottom (blue): 48688       coins
+4115 - light: 291661 coinsdark: 6250 coinsblue: 5914       coins
+4117 - light: 38886 coinsdark: 144288 coinsblue: 6964       coins
+4119 - 904
+4121 - 21414
+4123 - 341
+4125 - 487
+4127 - 722
+4129 - 1264
+4131 - 8225
+4151 - 431570
+4153 - 31591
+4156 - 2976
+4161 - 1
+4162 - 165
+4164 - 746
+4166 - 568
+4168 - 321
+4170 - 12774
+4207 - 74432
+4212 - 901394
+4224 - 749876
+4287 - 138
+4289 - 184
+4291 - 82
+4293 - 75
+4298 - 37
+4300 - 48
+4302 - 375
+4304 - 78
+4306 - 108
+4308 - 198
+4310 - 531
+4315 - varies by cape
+4317 - varies by cape
+4319 - varies by cape
+4321 - varies by cape
+4323 - varies by cape
+4325 - varies by cape
+4327 - varies by cape
+4329 - varies by cape
+4331 - varies by cape
+4333 - varies by cape
+4335 - varies by cape
+4337 - varies by cape
+4339 - varies by cape
+4341 - varies by cape
+4343 - varies by cape
+4345 - varies by cape
+4347 - varies by cape
+4349 - varies by cape
+4351 - varies by cape
+4353 - varies by cape
+4355 - varies by cape
+4357 - varies by cape
+4359 - varies by cape
+4361 - varies by cape
+4365 - varies by cape
+4367 - varies by cape
+4371 - varies by cape
+4373 - varies by cape
+4375 - varies by cape
+4377 - varies by cape
+4379 - varies by cape
+4383 - varies by cape
+4393 - varies by cape
+4397 - varies by cape
+4401 - varies by cape
+4403 - varies by cape
+4405 - varies by cape
+4407 - varies by cape
+4409 - varies by cape
+4411 - varies by cape
+4413 - varies by cape
+4417 - 4 dose: 233 coins3 dose: 139 coins2 dose: 83 coins1 dose: 46      coins
+4419 - 4 dose: 233 coins3 dose: 139 coins2 dose: 83 coins1 dose: 46      coins
+4421 - 4 dose: 233 coins3 dose: 139 coins2 dose: 83 coins1 dose: 46      coins
+4423 - 4 dose: 233 coins3 dose: 139 coins2 dose: 83 coins1 dose: 46      coins
+4436 - 298
+4438 - 16
+4440 - 11
+4456 - 118
+4458 - 35
+4460 - 113
+4464 - See article for amount in
+4466 - See article for amount in
+4468 - See article for amount in
+4470 - See article for amount in
+4472 - See article for amount in
+4474 - See article for amount in
+4476 - See article for amount in
+4478 - See article for amount in
+4480 - See article for amount in
+4482 - See article for amount in
+4517 - 979
+4522 - Empty: 2 coinsFull: 1444        coins
+4525 - Empty: 2 coinsFull: 1444        coins
+4527 - With candle: 367 coinsWithout candle: 112        coins
+4529 - With candle: 367 coinsWithout candle: 112        coins
+4535 - 223
+4537 - 223
+4540 - 6
+4542 - 3
+4544 - 984
+4546 - 984
+4548 - 984
+4551 - 936
+4580 - 276
+4582 - 276
+4585 - 161750
+4587 - 64672
+4600 - 367
+4608 - 435
+4627 - 986
+4675 - 60400
+4694 - 33
+4695 - 262
+4696 - 8
+4697 - 219
+4698 - 378
+4699 - 36
+4708 - Broken: 73815 coinsUndamaged: 105266        coins
+4710 - Broken: 50768 coinsUndamaged: 61894        coins
+4712 - Broken: 1451755 coinsUndamaged: 1667176        coins
+4714 - Broken: 1500333 coinsUndamaged: 1664644        coins
+4716 - Broken: 1410799 coinsUndamaged: 1484720        coins
+4718 - Broken: 544487 coinsUndamaged: 637452        coins
+4720 - Broken: 566606 coinsUndamaged: 657623        coins
+4722 - Broken: 1010569 coinsUndamaged: 1102982        coins
+4724 - Broken: 234040 coinsUndamaged: 297059        coins
+4726 - Broken: 367091 coinsUndamaged: 393942        coins
+4728 - Broken: 237391 coinsUndamaged: 316239        coins
+4730 - Broken: 239594 coinsUndamaged: 297061        coins
+4732 - Broken: 7542 coinsUndamaged: 38760        coins
+4734 - Broken: 100188 coinsUndamaged: 153147        coins
+4736 - Broken: 976054 coinsUndamaged: 1054337        coins
+4738 - Broken: 89865 coinsUndamaged: 157619        coins
+4740 - 265
+4745 - Broken: 76470 coinsUndamaged: 126485        coins
+4747 - Broken: 95364 coinsUndamaged: 94575        coins
+4749 - Broken: 306311 coinsUndamaged: 375440        coins
+4751 - Broken: 434295 coinsUndamaged: 480424        coins
+4753 - Broken: 420075 coinsUndamaged: 480852        coins
+4755 - Broken: 95814 coinsUndamaged: 155073        coins
+4757 - Broken: 178123 coinsUndamaged: 232268        coins
+4759 - Broken: 343354 coinsUndamaged: 407254        coins
+4773 - 40
+4778 - 17
+4783 - 23
+4788 - 66
+4793 - 95
+4798 - 173
+4803 - 262
+4812 - 855
+4819 - 16
+4820 - 16
+4821 - 17
+4822 - 34
+4823 - 85
+4824 - 121
+4825 - 456
+4827 - 196
+4830 - 4821
+4832 - 6834
+4834 - 20685
+4840 - 2261
+4842 - 4 dose: 1637 coins3 dose: 817 coins2 dose: 362 coins1 dose: 228      coins
+4844 - 4 dose: 1637 coins3 dose: 817 coins2 dose: 362 coins1 dose: 228      coins
+4846 - 4 dose: 1637 coins3 dose: 817 coins2 dose: 362 coins1 dose: 228      coins
+4848 - 4 dose: 1637 coins3 dose: 817 coins2 dose: 362 coins1 dose: 228      coins
+4850 - 2013
+4860 - Broken: 73815 coinsUndamaged: 105266        coins
+4866 - Broken: 50768 coinsUndamaged: 61894        coins
+4872 - Broken: 1451755 coinsUndamaged: 1667176        coins
+4878 - Broken: 1500333 coinsUndamaged: 1664644        coins
+4884 - Broken: 1410799 coinsUndamaged: 1484720        coins
+4890 - Broken: 544487 coinsUndamaged: 637452        coins
+4896 - Broken: 566606 coinsUndamaged: 657623        coins
+4902 - Broken: 1010569 coinsUndamaged: 1102982        coins
+4908 - Broken: 234040 coinsUndamaged: 297059        coins
+4914 - Broken: 367091 coinsUndamaged: 393942        coins
+4920 - Broken: 237391 coinsUndamaged: 306230        coins
+4926 - Broken: 239594 coinsUndamaged: 297061        coins
+4932 - Broken: 7542 coinsUndamaged: 38760        coins
+4938 - Broken: 100188 coinsUndamaged: 153147        coins
+4944 - Broken: 976054 coinsUndamaged: 1054337        coins
+4950 - Broken: 89865 coinsUndamaged: 157619        coins
+4956 - Broken: 76470 coinsUndamaged: 126485        coins
+4962 - Broken: 95364 coinsUndamaged: 94575        coins
+4968 - Broken: 306311 coinsUndamaged: 375440        coins
+4974 - Broken: 434295 coinsUndamaged: 480424        coins
+4980 - Broken: 420075 coinsUndamaged: 480852        coins
+4986 - Broken: 95814 coinsUndamaged: 155073        coins
+4992 - Broken: 178123 coinsUndamaged: 232268        coins
+4998 - Broken: 343354 coinsUndamaged: 407254        coins
+5001 - 328
+5003 - 166
+5014 - 392
+5016 - 247
+5018 - 602
+5024 - Blue: 1341 coinsBrown: 701 coinsTan: 950       coins
+5026 - Blue: 1341 coinsBrown: 701 coinsTan: 950       coins
+5028 - Blue: 1341 coinsBrown: 701 coinsTan: 950       coins
+5325 - 145
+5329 - 120
+5331 - 112
+5341 - 104
+5343 - 107
+5345 - 1580
+5350 - 224
+5352 - 8
+5354 - 224
+5376 - 1
+5386 - 1841
+5396 - 750
+5406 - 271
+5416 - 740 update
+5418 - 22
+5438 - 1164
+5458 - 621
+5478 - 1358
+5504 - 18
+5516 - 179513
+5521 - 737
+5523 - 166
+5525 - 25
+5527 - 11
+5529 - 13
+5531 - 1722
+5533 - 5
+5535 - 15
+5537 - 17
+5539 - 11
+5541 - 9
+5543 - 11
+5545 - 19
+5547 - 29
+5575 - 5813
+5576 - 4624
+5616 - 8
+5617 - 8
+5618 - 19
+5619 - 24
+5620 - 87
+5621 - 196
+5622 - 8
+5623 - 8
+5624 - 19
+5625 - 24
+5626 - 87
+5627 - 196
+5628 - 41
+5629 - 43
+5630 - 24
+5631 - 669
+5632 - 38
+5633 - 54
+5634 - 111
+5635 - 41
+5636 - 43
+5637 - 24
+5639 - 38
+5640 - 54
+5641 - 111
+5642 - 7
+5643 - 3
+5644 - 19
+5645 - 28
+5646 - 57
+5647 - 252
+5649 - 3
+5650 - 19
+5651 - 28
+5652 - 57
+5653 - 252
+5654 - 54
+5655 - 58
+5656 - 95
+5657 - 194
+5658 - 74
+5659 - 370
+5660 - 1226
+5661 - 54
+5662 - 58
+5663 - 95
+5664 - 194
+5665 - 74
+5666 - 370
+5667 - 1226
+5668 - 19
+5670 - 81
+5672 - 25
+5674 - 78
+5676 - 346
+5678 - 4540
+5680 - 17329
+5682 - 96
+5686 - 19
+5688 - 81
+5690 - 25
+5692 - 78
+5694 - 346
+5696 - 4540
+5698 - 17329
+5700 - 96
+5704 - 271
+5706 - 350
+5708 - 545
+5710 - 381
+5712 - 1092
+5716 - 37134
+5718 - 271
+5720 - 350
+5722 - 545
+5724 - 381
+5726 - 1092
+5728 - 12310
+5730 - 37134
+5734 - 276
+5736 - 276
+5743 - Glass: 48728 coinsKeg (4): 186838 coinsKeg (3): 138632 coinsKeg (2): 95517 coinsKeg (1): 60310     coins
+5747 - Glass: 31043 coinsKeg (4): 214244 coinsKeg (3): 102285 coinsKeg (2): 73188 coinsKeg (1): 47208     coins
+5749 - Glass: 20 coinskeg (4): 5000 coinskeg (3): 3771 coinskeg (2): 2543 coinskeg (1): 1315     coins
+5759 - Glass: 6 coinsKeg (4): 3465 coinsKeg (3): 3209 coinsKeg (2): 2168 coinsKeg (1): 1127     coins
+5761 - Glass: 1760 coinsKeg (4): 15597 coinsKeg (3): 10843 coinsKeg (2): 7258 coinsKeg (1): 3672     coins
+5763 - Glass: 1273 coinsKeg (4): 18838 coinsKeg (3): 15110 coinsKeg (2): 10978 coinsKeg (1): 6219     coins
+5765 - Glass: 3756 coinsKeg (4): 11858 coinsKeg (3): 8724 coinsKeg (2): 5845 coinsKeg (1): 2966     coins
+5767 - 38
+5769 - 8
+5771 - Glass: 113 coinsKeg (4): 5401 coinsKeg (3): 5031 coinsKeg (2): 3211 coinsKeg (1): 1989     coins
+5773 - Glass: 113 coinsKeg (4): 5401 coinsKeg (3): 5031 coinsKeg (2): 3211 coinsKeg (1): 1989     coins
+5775 - Glass: 113 coinsKeg (4): 5401 coinsKeg (3): 5031 coinsKeg (2): 3211 coinsKeg (1): 1989     coins
+5777 - Glass: 113 coinsKeg (4): 5401 coinsKeg (3): 5031 coinsKeg (2): 3211 coinsKeg (1): 1989     coins
+5779 - Glass: 138 coinsKeg (4): 12571 coinsKeg (3): 9230 coinsKeg (2): 6103 coinsKeg (1): 3344     coins
+5781 - Glass: 138 coinsKeg (4): 12571 coinsKeg (3): 9230 coinsKeg (2): 6103 coinsKeg (1): 3344     coins
+5783 - Glass: 138 coinsKeg (4): 12571 coinsKeg (3): 9230 coinsKeg (2): 6103 coinsKeg (1): 3344     coins
+5785 - Glass: 138 coinsKeg (4): 12571 coinsKeg (3): 9230 coinsKeg (2): 6103 coinsKeg (1): 3344     coins
+5787 - Glass: 731 coinsKeg (4): 5868 coinsKeg (3): 7534 coinsKeg (2): 4624 coinsKeg (1): 3658     coins
+5789 - Glass: 731 coinsKeg (4): 5868 coinsKeg (3): 7534 coinsKeg (2): 4624 coinsKeg (1): 3658     coins
+5791 - Glass: 731 coinsKeg (4): 5868 coinsKeg (3): 7534 coinsKeg (2): 4624 coinsKeg (1): 3658     coins
+5793 - Glass: 731 coinsKeg (4): 5868 coinsKeg (3): 7534 coinsKeg (2): 4624 coinsKeg (1): 3658     coins
+5795 - Glass: 131 coinsKeg (4): 5108 coinsKeg (3): 4047 coinsKeg (2): 2721 coinsKeg (1): 1495     coins
+5797 - Glass: 131 coinsKeg (4): 5108 coinsKeg (3): 4047 coinsKeg (2): 2721 coinsKeg (1): 1495     coins
+5799 - Glass: 131 coinsKeg (4): 5108 coinsKeg (3): 4047 coinsKeg (2): 2721 coinsKeg (1): 1495     coins
+5801 - Glass: 131 coinsKeg (4): 5108 coinsKeg (3): 4047 coinsKeg (2): 2721 coinsKeg (1): 1495     coins
+5803 - Glass: 536 coinsKeg (4): 5756 coinsKeg (3): 4845 coinsKeg (2): 3259 coinsKeg (1): 1673     coins
+5805 - Glass: 536 coinsKeg (4): 5756 coinsKeg (3): 4845 coinsKeg (2): 3259 coinsKeg (1): 1673     coins
+5807 - Glass: 536 coinsKeg (4): 5756 coinsKeg (3): 4845 coinsKeg (2): 3259 coinsKeg (1): 1673     coins
+5809 - Glass: 536 coinsKeg (4): 5756 coinsKeg (3): 4845 coinsKeg (2): 3259 coinsKeg (1): 1673     coins
+5811 - Glass: 13 coinsKeg (4): 4883 coinsKeg (3): 3721 coinsKeg (2): 2510 coinsKeg (1): 1298     coins
+5813 - Glass: 13 coinsKeg (4): 4883 coinsKeg (3): 3721 coinsKeg (2): 2510 coinsKeg (1): 1298     coins
+5815 - Glass: 13 coinsKeg (4): 4883 coinsKeg (3): 3721 coinsKeg (2): 2510 coinsKeg (1): 1298     coins
+5817 - Glass: 13 coinsKeg (4): 4883 coinsKeg (3): 3721 coinsKeg (2): 2510 coinsKeg (1): 1298     coins
+5819 - Glass: 933 coinsKeg (4): 9038 coinsKeg (3): 8820 coinsKeg (2): 6093 coinsKeg (1): 3333     coins
+5821 - Glass: 933 coinsKeg (4): 9038 coinsKeg (3): 8820 coinsKeg (2): 6093 coinsKeg (1): 3333     coins
+5823 - Glass: 933 coinsKeg (4): 9038 coinsKeg (3): 8820 coinsKeg (2): 6093 coinsKeg (1): 3333     coins
+5825 - Glass: 933 coinsKeg (4): 9038 coinsKeg (3): 8820 coinsKeg (2): 6093 coinsKeg (1): 3333     coins
+5827 - Glass: 2369 coinsKeg (4): 11157 coinsKeg (3): 9194 coinsKeg (2): 6589 coinsKeg (1): 3957     coins
+5829 - Glass: 2369 coinsKeg (4): 11157 coinsKeg (3): 9194 coinsKeg (2): 6589 coinsKeg (1): 3957     coins
+5831 - Glass: 2369 coinsKeg (4): 11157 coinsKeg (3): 9194 coinsKeg (2): 6589 coinsKeg (1): 3957     coins
+5833 - Glass: 2369 coinsKeg (4): 11157 coinsKeg (3): 9194 coinsKeg (2): 6589 coinsKeg (1): 3957     coins
+5835 - Glass: 6 coinsKeg (4): 3465 coinsKeg (3): 3209 coinsKeg (2): 2168 coinsKeg (1): 1127     coins
+5837 - Glass: 6 coinsKeg (4): 3465 coinsKeg (3): 3209 coinsKeg (2): 2168 coinsKeg (1): 1127     coins
+5839 - Glass: 6 coinsKeg (4): 3465 coinsKeg (3): 3209 coinsKeg (2): 2168 coinsKeg (1): 1127     coins
+5841 - Glass: 6 coinsKeg (4): 3465 coinsKeg (3): 3209 coinsKeg (2): 2168 coinsKeg (1): 1127     coins
+5843 - Glass: 1273 coinsKeg (4): 18838 coinsKeg (3): 15110 coinsKeg (2): 10978 coinsKeg (1): 6219     coins
+5845 - Glass: 1273 coinsKeg (4): 18838 coinsKeg (3): 15110 coinsKeg (2): 10978 coinsKeg (1): 6219     coins
+5847 - Glass: 1273 coinsKeg (4): 18838 coinsKeg (3): 15110 coinsKeg (2): 10978 coinsKeg (1): 6219     coins
+5849 - Glass: 1273 coinsKeg (4): 18838 coinsKeg (3): 15110 coinsKeg (2): 10978 coinsKeg (1): 6219     coins
+5851 - Glass: 31043 coinsKeg (4): 214244 coinsKeg (3): 102285 coinsKeg (2): 73188 coinsKeg (1): 47208     coins
+5853 - Glass: 31043 coinsKeg (4): 214244 coinsKeg (3): 102285 coinsKeg (2): 73188 coinsKeg (1): 47208     coins
+5855 - Glass: 31043 coinsKeg (4): 214244 coinsKeg (3): 102285 coinsKeg (2): 73188 coinsKeg (1): 47208     coins
+5857 - Glass: 31043 coinsKeg (4): 214244 coinsKeg (3): 102285 coinsKeg (2): 73188 coinsKeg (1): 47208     coins
+5859 - Glass: 459 coinsKeg (4): 6778 coinsKeg (3): 4917 coinsKeg (2): 3307 coinsKeg (1): 1697     coins
+5861 - Glass: 459 coinsKeg (4): 6778 coinsKeg (3): 4917 coinsKeg (2): 3307 coinsKeg (1): 1697     coins
+5863 - Glass: 459 coinsKeg (4): 6778 coinsKeg (3): 4917 coinsKeg (2): 3307 coinsKeg (1): 1697     coins
+5865 - Glass: 459 coinsKeg (4): 6778 coinsKeg (3): 4917 coinsKeg (2): 3307 coinsKeg (1): 1697     coins
+5867 - Glass: 48728 coinsKeg (4): 186838 coinsKeg (3): 138632 coinsKeg (2): 95517 coinsKeg (1): 60310     coins
+5869 - Glass: 48728 coinsKeg (4): 186838 coinsKeg (3): 138632 coinsKeg (2): 95517 coinsKeg (1): 60310     coins
+5871 - Glass: 48728 coinsKeg (4): 186838 coinsKeg (3): 138632 coinsKeg (2): 95517 coinsKeg (1): 60310     coins
+5873 - Glass: 48728 coinsKeg (4): 186838 coinsKeg (3): 138632 coinsKeg (2): 95517 coinsKeg (1): 60310     coins
+5875 - Glass: 1238 coinskeg (4): 12677 coinskeg (3): 8922 coinskeg (2): 5977 coinskeg (1): 3032     coins
+5877 - Glass: 1238 coinskeg (4): 12677 coinskeg (3): 8922 coinskeg (2): 5977 coinskeg (1): 3032     coins
+5879 - Glass: 1238 coinskeg (4): 12677 coinskeg (3): 8922 coinskeg (2): 5977 coinskeg (1): 3032     coins
+5881 - Glass: 1238 coinskeg (4): 12677 coinskeg (3): 8922 coinskeg (2): 5977 coinskeg (1): 3032     coins
+5883 - Glass: 2458 coinsKeg (4): 8834 coinsKeg (3): 6201 coinsKeg (2): 4163 coinsKeg (1): 2125     coins
+5885 - Glass: 2458 coinsKeg (4): 8834 coinsKeg (3): 6201 coinsKeg (2): 4163 coinsKeg (1): 2125     coins
+5887 - Glass: 2458 coinsKeg (4): 8834 coinsKeg (3): 6201 coinsKeg (2): 4163 coinsKeg (1): 2125     coins
+5889 - Glass: 2458 coinsKeg (4): 8834 coinsKeg (3): 6201 coinsKeg (2): 4163 coinsKeg (1): 2125     coins
+5891 - Glass: 20 coinskeg (4): 5000 coinskeg (3): 3771 coinskeg (2): 2543 coinskeg (1): 1315     coins
+5893 - Glass: 20 coinskeg (4): 5000 coinskeg (3): 3771 coinskeg (2): 2543 coinskeg (1): 1315     coins
+5895 - Glass: 20 coinskeg (4): 5000 coinskeg (3): 3771 coinskeg (2): 2543 coinskeg (1): 1315     coins
+5897 - Glass: 20 coinskeg (4): 5000 coinskeg (3): 3771 coinskeg (2): 2543 coinskeg (1): 1315     coins
+5899 - Glass: 30556 coinsKeg (4): 68615 coinsKeg (3): 38894 coinsKeg (2): 24788 coinsKeg (1): 14157     coins
+5901 - Glass: 30556 coinsKeg (4): 68615 coinsKeg (3): 38894 coinsKeg (2): 24788 coinsKeg (1): 14157     coins
+5903 - Glass: 30556 coinsKeg (4): 68615 coinsKeg (3): 38894 coinsKeg (2): 24788 coinsKeg (1): 14157     coins
+5905 - Glass: 30556 coinsKeg (4): 68615 coinsKeg (3): 38894 coinsKeg (2): 24788 coinsKeg (1): 14157     coins
+5907 - Glass: 36874 coinsKeg (4): 110446 coinsKeg (3): 52609 coinsKeg (2): 35642 coinsKeg (1): 17951     coins
+5909 - Glass: 36874 coinsKeg (4): 110446 coinsKeg (3): 52609 coinsKeg (2): 35642 coinsKeg (1): 17951     coins
+5911 - Glass: 36874 coinsKeg (4): 110446 coinsKeg (3): 52609 coinsKeg (2): 35642 coinsKeg (1): 17951     coins
+5913 - Glass: 36874 coinsKeg (4): 110446 coinsKeg (3): 52609 coinsKeg (2): 35642 coinsKeg (1): 17951     coins
+5915 - Glass: 1760 coinsKeg (4): 15597 coinsKeg (3): 10843 coinsKeg (2): 7258 coinsKeg (1): 3672     coins
+5917 - Glass: 1760 coinsKeg (4): 15597 coinsKeg (3): 10843 coinsKeg (2): 7258 coinsKeg (1): 3672     coins
+5919 - Glass: 1760 coinsKeg (4): 15597 coinsKeg (3): 10843 coinsKeg (2): 7258 coinsKeg (1): 3672     coins
+5921 - Glass: 1760 coinsKeg (4): 15597 coinsKeg (3): 10843 coinsKeg (2): 7258 coinsKeg (1): 3672     coins
+5923 - Glass: 3756 coinsKeg (4): 11858 coinsKeg (3): 8724 coinsKeg (2): 5845 coinsKeg (1): 2966     coins
+5925 - Glass: 3756 coinsKeg (4): 11858 coinsKeg (3): 8724 coinsKeg (2): 5845 coinsKeg (1): 2966     coins
+5927 - Glass: 3756 coinsKeg (4): 11858 coinsKeg (3): 8724 coinsKeg (2): 5845 coinsKeg (1): 2966     coins
+5929 - Glass: 3756 coinsKeg (4): 11858 coinsKeg (3): 8724 coinsKeg (2): 5845 coinsKeg (1): 2966     coins
+5931 - 487
+5933 - 973
+5935 - 1085
+5937 - 682
+5940 - 4909
+5943 - 4 dose: 1225 coins3 dose: 1529 coins2 dose: 1206 coins1 dose: 1196      coins
+5945 - 4 dose: 1225 coins3 dose: 1529 coins2 dose: 1206 coins1 dose: 1196      coins
+5947 - 4 dose: 1225 coins3 dose: 1529 coins2 dose: 1206 coins1 dose: 1196      coins
+5949 - 4 dose: 1225 coins3 dose: 1529 coins2 dose: 1206 coins1 dose: 1196      coins
+5952 - 4 dose: 1859 coins3 dose: 1385 coins2 dose: 671 coins1 dose: 548      coins
+5954 - 4 dose: 1859 coins3 dose: 1385 coins2 dose: 671 coins1 dose: 548      coins
+5956 - 4 dose: 1859 coins3 dose: 1385 coins2 dose: 671 coins1 dose: 548      coins
+5958 - 4 dose: 1859 coins3 dose: 1385 coins2 dose: 671 coins1 dose: 548      coins
+5968 - 728
+5970 - 362
+5972 - 1304
+5974 - 2483
+5976 - 2483
+5978 - 36
+5980 - 46
+5982 - 24
+5984 - 41
+5986 - 25
+5988 - 24
+5992 - 491
+5994 - 27
+5996 - 7
+5998 - 3
+6000 - 6
+6004 - 428
+6006 - 317
+6008 - 354
+6010 - 4707
+6012 - 56
+6014 - 22
+6016 - 6492
+6018 - 508
+6020 - 182
+6022 - 182
+6024 - 182
+6026 - 182
+6028 - 182
+6030 - 182
+6032 - 120
+6034 - 759
+6036 - 193
+6038 - 943
+6041 - 1952
+6043 - 81
+6045 - 43
+6047 - 62
+6049 - 520
+6051 - 7451
+6061 - 10
+6062 - 10
+6128 - 22392
+6129 - 48699
+6130 - 55576
+6131 - 35780
+6133 - 4453
+6135 - 2202
+6137 - 26738
+6139 - 26619
+6141 - 23804
+6143 - 2352
+6145 - 727
+6147 - 4817
+6149 - 1484
+6151 - 1276
+6153 - 22125
+6155 - 3628
+6157 - 7562
+6159 - 10502
+6161 - 17326
+6163 - 9791
+6165 - 10280
+6167 - 9342
+6169 - 24492
+6171 - 473
+6173 - 373
+6211 - 2858
+6213 - 4022
+6215 - blue: 2740 coinsgreen: 2679 coinsorange: 2422       coins
+6235 - blue: 2740 coinsgreen: 2679 coinsorange: 2422       coins
+6237 - blue: 2740 coinsgreen: 2679 coinsorange: 2422       coins
+6257 - blue: 2740 coinsgreen: 2679 coinsorange: 2422       coins
+6259 - blue: 2740 coinsgreen: 2679 coinsorange: 2422       coins
+6279 - blue: 2740 coinsgreen: 2679 coinsorange: 2422       coins
+6281 - Light: 1 coinsMedium: 2 coinsDense: 3       coins
+6283 - Light: 1 coinsMedium: 2 coinsDense: 3       coins
+6285 - Light: 1 coinsMedium: 2 coinsDense: 3       coins
+6287 - 1937
+6289 - 952
+6291 - 1221
+6293 - Raw: 187 coinsCooked: 55        coins
+6295 - Raw: 106 coinsCooked: 79        coins
+6297 - Raw: 187 coinsCooked: 55        coins
+6299 - Raw: 106 coinsCooked: 79        coins
+6305 - 3
+6306 - 2
+6313 - 220
+6315 - 3946
+6317 - 6106
+6319 - 9110
+6322 - 13271
+6324 - 578
+6326 - 1057
+6332 - 404
+6333 - 63
+6335 - Blue: 1051 coinsGreen: 1405 coinsOrange: 986       coins
+6337 - Blue: 1051 coinsGreen: 1405 coinsOrange: 986       coins
+6339 - Blue: 1051 coinsGreen: 1405 coinsOrange: 986       coins
+6341 - Brown: 2253 coinsBlue: 2623 coinsYellow: 2196 coinsPink: 2283      coins
+6343 - Brown: 1397 coinsBlue: 1428 coinsYellow: 509 coinsPink: 336      coins
+6347 - Brown: 750 coinsBlue: 650 coinsYellow: 826 coinsPink: 1691      coins
+6349 - Brown: 2160 coinsBlue: 941 coinsYellow: 1508 coinsPink: 2153      coins
+6351 - Brown: 2253 coinsBlue: 2623 coinsYellow: 2196 coinsPink: 2283      coins
+6353 - Brown: 1397 coinsBlue: 1428 coinsYellow: 509 coinsPink: 336      coins
+6355 - Brown: 2270 coinsBlue: 2727 coinsYellow: 2231 coinsPink: 3066      coins
+6357 - Brown: 2160 coinsBlue: 941 coinsYellow: 1508 coinsPink: 2153      coins
+6359 - Brown: 750 coinsBlue: 650 coinsYellow: 826 coinsPink: 1691      coins
+6361 - Brown: 2253 coinsBlue: 2623 coinsYellow: 2196 coinsPink: 2283      coins
+6363 - Brown: 1397 coinsBlue: 1428 coinsYellow: 509 coinsPink: 336      coins
+6365 - Brown: 2270 coinsBlue: 2727 coinsYellow: 2231 coinsPink: 3066      coins
+6367 - Brown: 2160 coinsBlue: 941 coinsYellow: 1508 coinsPink: 2153      coins
+6369 - Brown: 750 coinsBlue: 650 coinsYellow: 826 coinsPink: 1691      coins
+6371 - Brown: 2253 coinsBlue: 2623 coinsYellow: 2196 coinsPink: 2283      coins
+6373 - Brown: 1397 coinsBlue: 1428 coinsYellow: 509 coinsPink: 336      coins
+6375 - Brown: 2270 coinsBlue: 2727 coinsYellow: 2231 coinsPink: 3066      coins
+6377 - Brown: 2160 coinsBlue: 941 coinsYellow: 1508 coinsPink: 2153      coins
+6379 - Brown: 750 coinsBlue: 650 coinsYellow: 826 coinsPink: 1691      coins
+6382 - 820
+6384 - 504
+6386 - 381
+6388 - 504
+6390 - 428
+6392 - Purple: 597&nbsp;coins  (update)Red: 522&nbsp;coins  (update)
+6394 - Purple: 680&nbsp;coins  (update)Red: 576&nbsp;coins  (update)
+6396 - Purple: 446&nbsp;coins  (update)Red: 468&nbsp;coins  (update)
+6398 - Purple: 241 coinsRed: 233        coins
+6400 - Purple: 597&nbsp;coins  (update)Red: 522&nbsp;coins  (update)
+6402 - Purple: 680&nbsp;coins  (update)Red: 576&nbsp;coins  (update)
+6404 - Purple: 446&nbsp;coins  (update)Red: 468&nbsp;coins  (update)
+6406 - Purple: 241 coinsRed: 233        coins
+6408 - 894
+6410 - 848
+6412 - 1511
+6414 - 1320
+6416 - 2118
+6418 - 2148
+6420 - 2535
+6470 - 4 dose: 10225 coins3 dose: 7174 coins2 dose: 3447 coins1 dose: 1858      coins
+6472 - 4 dose: 10225 coins3 dose: 7174 coins2 dose: 3447 coins1 dose: 1858      coins
+6474 - 4 dose: 10225 coins3 dose: 7174 coins2 dose: 3447 coins1 dose: 1858      coins
+6476 - 4 dose: 10225 coins3 dose: 7174 coins2 dose: 3447 coins1 dose: 1858      coins
+6522 - 230
+6523 - 25310
+6524 - 39885
+6525 - 15110
+6526 - 25479
+6527 - 18527
+6528 - 33571
+6562 - 307606
+6563 - 355066
+6568 - 47933
+6571 - 5995868
+6573 - 6577830
+6577 - 4487774
+6581 - 8614354
+6583 - 387586
+6585 - 6110766
+6587 - 1137
+6589 - 1494
+6591 - 492
+6593 - 492
+6595 - 492
+6597 - 492
+6599 - 1839
+6601 - 482
+6607 - 2618
+6613 - 1178
+6615 - 760
+6617 - 4532
+6619 - 1524
+6621 - 857
+6623 - 2135
+6625 - 1193
+6627 - 2040
+6629 - 1215
+6631 - 1264
+6633 - 2569
+6667 - 510
+6681 - 1
+6683 - 10
+6685 - 4 dose: 10846 coins3 dose: 7999 coins2 dose: 5112 coins1 dose: 2556      coins
+6693 - 6644
+6697 - 277
+6701 - 282
+6705 - 489
+6724 - 7916
+6729 - 8114
+6731 - 364919
+6733 - 810962
+6735 - 131164
+6737 - 2092208
+6739 - 930097
+6762 - 16750
+6764 - 3935
+6809 - 58180
+6812 - 6009
+6889 - 4884882
+6908 - 9038
+6910 - 72942
+6912 - 818500
+6916 - 5132097
+6918 - 1300570
+6920 - 651153
+6922 - 1925706
+6924 - 3042161
+6959 - Pink: 1113 coinsRed: 105 coinsOrange: 2131 coinsYellow: 360 coinsGreen: 638 coinsBlue: 603 coinsPurple: 770 coinsBlack: 191  coins
+6962 - 142
+6971 - 1 kg: 3 coins2 kg: 19 coins5 kg: 18 coins10 kg: 122      coins
+6973 - 1 kg: 3 coins2 kg: 19 coins5 kg: 18 coins10 kg: 122      coins
+6977 - 1 kg: 3 coins2 kg: 19 coins5 kg: 18 coins10 kg: 122      coins
+6979 - 500g: 151 coins2 kg: 482 coins5 kg: 1113       coins
+6981 - 500g: 151 coins2 kg: 482 coins5 kg: 1113       coins
+6983 - 500g: 151 coins2 kg: 482 coins5 kg: 1113       coins
+7051 - 489
+7054 - 244
+7056 - 444
+7058 - 1118
+7060 - 1595
+7062 - 224
+7064 - 127
+7066 - 368
+7068 - 597
+7070 - 22
+7072 - 73
+7074 - 40
+7076 - 35
+7078 - 26
+7080 - 149
+7082 - 196
+7084 - 40
+7086 - 262
+7088 - 25
+7110 - See article
+7112 - See table for price in
+7114 - 2147
+7116 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+7122 - See article
+7124 - See table for price in
+7126 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+7128 - See article
+7130 - See table for price in
+7132 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+7134 - See article
+7136 - See table for price in
+7138 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+7158 - 927543
+7159 - 304
+7162 - 76
+7164 - 1060
+7166 - 1060
+7168 - 1804
+7170 - 1060
+7172 - Garden pie: 820 coinsHalf a garden pie: 414        coins
+7174 - Garden pie: 820 coinsHalf a garden pie: 414        coins
+7176 - 1224
+7178 - Garden pie: 820 coinsHalf a garden pie: 414        coins
+7180 - Garden pie: 820 coinsHalf a garden pie: 414        coins
+7182 - Fish pie: 169 coinsHalf a fish pie: 58        coins
+7184 - Fish pie: 169 coinsHalf a fish pie: 58        coins
+7186 - 1353
+7188 - Fish pie: 169 coinsHalf a fish pie: 58        coins
+7190 - Fish pie: 169 coinsHalf a fish pie: 58        coins
+7196 - 2118
+7202 - Wild pie: 859 coinsHalf a wild pie: 141        coins
+7204 - Wild pie: 859 coinsHalf a wild pie: 141        coins
+7206 - 4277
+7208 - Wild pie: 859 coinsHalf a wild pie: 141        coins
+7210 - Wild pie: 859 coinsHalf a wild pie: 141        coins
+7212 - Summer pie: 716 coinsHalf a summer pie: 400        coins
+7214 - Summer pie: 716 coinsHalf a summer pie: 400        coins
+7216 - 1836
+7218 - Summer pie: 716 coinsHalf a summer pie: 400        coins
+7220 - Summer pie: 716 coinsHalf a summer pie: 400        coins
+7223 - 38
+7224 - 163
+7225 - 25
+7228 - Cooked chompy: 96 coinsCooked chompy (ogre method): 164
+7319 - 61785
+7321 - 21143
+7323 - 65526
+7325 - 59292
+7327 - 61534
+7329 - 93
+7330 - 144
+7331 - 199
+7332 - 15090
+7334 - 15498
+7336 - 32382
+7338 - 9276
+7340 - 3310
+7342 - 32590
+7344 - 6338
+7346 - 5528
+7348 - 32141
+7350 - 5010
+7352 - 3176
+7354 - 32627
+7356 - 8942
+7358 - 5668
+7360 - 32434
+7362 - 59178
+7364 - 21136
+7366 - 66834
+7368 - 33167
+7386 - 319053
+7388 - 101923
+7390 - Not sold
+7392 - Not sold
+7394 - 836946
+7396 - 189203
+7398 - 51445
+7399 - 77642
+7400 - 9150
+7416 - 7269
+7418 - 7668
+7433 - 49
+7435 - 12
+7437 - 205
+7439 - 986
+7441 - 846
+7443 - 1751
+7445 - 8482
+7447 - 4711
+7449 - 24688
+7451 - 14978
+7521 - 229
+7566 - 439
+7568 - 968
+7650 - 310
+7652 - 4 dose: 96 coins3 dose: 73 coins2 dose: 58 coins1 dose: 30      coins
+7654 - 4 dose: 96 coins3 dose: 73 coins2 dose: 58 coins1 dose: 30      coins
+7656 - 4 dose: 96 coins3 dose: 73 coins2 dose: 58 coins1 dose: 30      coins
+7658 - 4 dose: 96 coins3 dose: 73 coins2 dose: 58 coins1 dose: 30      coins
+7660 - 4 dose: 138 coins3 dose: 132 coins2 dose: 138 coins1 dose: 69      coins
+7662 - 4 dose: 138 coins3 dose: 132 coins2 dose: 138 coins1 dose: 69      coins
+7664 - 4 dose: 138 coins3 dose: 132 coins2 dose: 138 coins1 dose: 69      coins
+7666 - 4 dose: 138 coins3 dose: 132 coins2 dose: 138 coins1 dose: 69      coins
+7668 - 1623
+7759 - 3048
+7763 - 3298
+7767 - 3332
+7771 - 2711
+7801 - 1937
+7934 - 170
+7936 - 128
+7939 - 10618
+7944 - 292
+7946 - 258
+8007 - 771
+8008 - 715
+8009 - 733
+8010 - 720
+8011 - 978
+8012 - 628
+8013 - 816
+8014 - 376
+8015 - 958
+8016 - 435
+8017 - 470
+8018 - 250
+8019 - 333
+8020 - 267
+8021 - 32
+8431 - 1222
+8520 - Glass: 138 coinsKeg (4): 12571 coinsKeg (3): 9230 coinsKeg (2): 6103 coinsKeg (1): 3344     coins
+8522 - Glass: 731 coinsKeg (4): 5868 coinsKeg (3): 7534 coinsKeg (2): 4624 coinsKeg (1): 3658     coins
+8524 - Glass: 536 coinsKeg (4): 5756 coinsKeg (3): 4845 coinsKeg (2): 3259 coinsKeg (1): 1673     coins
+8526 - Glass: 2369 coinsKeg (4): 11157 coinsKeg (3): 9194 coinsKeg (2): 6589 coinsKeg (1): 3957     coins
+8778 - 419
+8780 - 634
+8782 - 1920
+8784 - 134355
+8786 - 327893
+8788 - 972268
+8790 - 999
+8792 - 1110
+8794 - 21
+8837 - 25
+8872 - 3084
+8874 - 3084
+8876 - 3084
+8878 - 3084
+8880 - 1094
+8882 - 12
+8901 - 690394
+8921 - 690394
+8924 - Not sold
+8925 - Not sold
+8926 - Not sold
+8927 - Not sold
+8928 - Not sold
+9003 - 89
+9004 - 18
+9026 - 189
+9028 - 489
+9030 - 163
+9032 - 73
+9034 - 768
+9036 - 96
+9038 - 190
+9040 - 276
+9042 - 145
+9044 - Pharaoh's sceptre (3): 480002 coinsUncharged: 449439        coins
+9050 - Pharaoh's sceptre (3): 480002 coinsUncharged: 449439        coins
+9052 - 88
+9075 - 143
+9140 - 42
+9141 - 82
+9142 - 160
+9143 - 227
+9144 - 583
+9145 - 8
+9174 - 39
+9177 - 28
+9179 - 109
+9181 - 432
+9183 - 1072
+9185 - 9539
+9187 - 3
+9188 - 2
+9189 - 4
+9190 - 48
+9191 - 128
+9192 - 872
+9193 - 1669
+9194 - 7840
+9236 - 11
+9238 - 40
+9239 - 66
+9240 - 127
+9241 - 245
+9242 - 524
+9243 - 1351
+9244 - 2348
+9245 - 8692
+9287 - 42
+9288 - 82
+9289 - 160
+9290 - 227
+9291 - 583
+9292 - 8
+9294 - 42
+9295 - 82
+9296 - 160
+9297 - 227
+9298 - 583
+9299 - 8
+9301 - 42
+9302 - 82
+9303 - 160
+9304 - 227
+9305 - 583
+9306 - 8
+9336 - 70
+9337 - 116
+9338 - 198
+9339 - 385
+9340 - 1149
+9341 - 2371
+9342 - 8621
+9375 - 4
+9377 - 19
+9378 - 65
+9379 - 131
+9380 - 211
+9381 - 1205
+9382 - 1
+9416 - 423
+9418 - 1123
+9419 - 1123
+9420 - 50
+9423 - 40
+9425 - 98
+9427 - 327
+9429 - 1412
+9431 - 9328
+9434 - 240
+9436 - 213
+9438 - 128
+9440 - 3
+9442 - 1
+9444 - 4
+9446 - 5
+9448 - 12
+9450 - 20
+9452 - 47
+9454 - 26
+9457 - 25
+9459 - 109
+9461 - 336
+9463 - 916
+9465 - 9511
+9469 - 14725
+9470 - 1903763
+9472 - 76710
+9475 - 679
+9629 - 977
+9634 - 2171
+9636 - 1300
+9638 - 3270
+9640 - 637
+9642 - 514
+9644 - 486
+9666 - 25992
+9668 - 21058
+9670 - 27130
+9672 - 4680
+9674 - 7016
+9676 - 5850
+9678 - 5868
+9729 - 139
+9731 - 6609
+9733 - 1644
+9735 - 401
+9736 - 464
+9739 - 4 dose: 160 coins3 dose: 75 coins2 dose: 45 coins1 dose: 48      coins
+9741 - 4 dose: 160 coins3 dose: 75 coins2 dose: 45 coins1 dose: 48      coins
+9743 - 4 dose: 160 coins3 dose: 75 coins2 dose: 45 coins1 dose: 48      coins
+9745 - 4 dose: 160 coins3 dose: 75 coins2 dose: 45 coins1 dose: 48      coins
+9978 - 128
+9980 - 18
+9984 - 128
+9986 - 18
+9988 - 43
+9992 - 100
+9994 - 335
+9996 - 260
+9998 - 4 dose: 246 coins3 dose: 196 coins2 dose: 156 coins1 dose: 143      coins
+10000 - 4 dose: 246 coins3 dose: 196 coins2 dose: 156 coins1 dose: 143      coins
+10002 - 4 dose: 246 coins3 dose: 196 coins2 dose: 156 coins1 dose: 143      coins
+10004 - 4 dose: 246 coins3 dose: 196 coins2 dose: 156 coins1 dose: 143      coins
+10006 - 1
+10008 - 402
+10010 - 1
+10012 - 153
+10025 - 748
+10029 - 1
+10031 - 1
+10034 - 639
+10035 - 372
+10037 - 219
+10039 - 6581
+10041 - 1240
+10043 - 1278
+10045 - 3913
+10047 - 221
+10049 - 261
+10051 - 6484
+10053 - 5151
+10055 - 3557
+10057 - 322
+10059 - 473
+10061 - 610
+10063 - 1023
+10065 - 6029
+10067 - 5851
+10069 - 601
+10071 - 654
+10075 - 1407
+10077 - 100
+10079 - 1595
+10081 - 1847
+10083 - 2065
+10085 - 3365
+10087 - 16
+10088 - 18
+10089 - 27
+10090 - 37
+10091 - 23
+10093 - 1004
+10095 - 3831
+10097 - 23
+10099 - 6274
+10101 - 21
+10103 - 10419
+10105 - 160
+10107 - 1784
+10109 - 1010
+10111 - 982
+10113 - 52
+10115 - 149
+10117 - 2908
+10119 - 8
+10121 - 1685
+10123 - 89
+10125 - 4
+10127 - 40
+10129 - 45
+10132 - 805
+10134 - 533
+10136 - 143
+10138 - 245
+10142 - 26
+10143 - 14
+10144 - 20
+10145 - 32
+10146 - 15
+10147 - 29
+10148 - 221
+10149 - 1164
+10150 - 1
+10156 - 3040
+10158 - 18
+10159 - 300
+10280 - 169
+10282 - 928
+10284 - 1289
+10286 - 26343
+10288 - 22883
+10290 - 29498
+10292 - 25510
+10294 - 35828
+10296 - 26165
+10298 - 9478
+10300 - 8153
+10302 - 10263
+10304 - 17217
+10306 - 20200
+10308 - 11983
+10310 - 10243
+10312 - 12225
+10314 - 18901
+10316 - Red: 8391 coinsGreen: 8721 coinsBlue: 14903 coinsPurple: 8654 coinsBlack: 9306     coins
+10318 - Red: 8391 coinsGreen: 8721 coinsBlue: 14903 coinsPurple: 8654 coinsBlack: 9306     coins
+10320 - Red: 8391 coinsGreen: 8721 coinsBlue: 14903 coinsPurple: 8654 coinsBlack: 9306     coins
+10322 - Red: 8391 coinsGreen: 8721 coinsBlue: 14903 coinsPurple: 8654 coinsBlack: 9306     coins
+10324 - Red: 8391 coinsGreen: 8721 coinsBlue: 14903 coinsPurple: 8654 coinsBlack: 9306     coins
+10326 - 281
+10327 - 313
+10330 - 27410220
+10332 - 15095440
+10334 - 6343328
+10336 - 6429387
+10338 - 81696867
+10340 - 26380339
+10342 - 11632379
+10344 - 17056212
+10346 - 105283080
+10348 - 88084508
+10350 - 29830715
+10352 - 53365514
+10362 - Uncharged: 216894 coins4 charges: 226095        coins
+10364 - 421657
+10366 - 58246
+10368 - 130192
+10370 - 126421
+10372 - 35538
+10374 - 33861
+10378 - 28018
+10382 - 25491
+10384 - 82794
+10388 - 41473
+10390 - 24375
+10392 - 35257
+10394 - 599272
+10396 - 12261
+10398 - 392980
+10400 - 1257157
+10402 - 372621
+10404 - 170297
+10406 - 70570
+10408 - 203128
+10410 - 87726
+10412 - 251156
+10414 - 68300
+10416 - 131619
+10418 - 109002
+10420 - 526614
+10422 - 58431
+10424 - 18401
+10426 - 7498
+10428 - 25452
+10430 - 12659
+10432 - 14411
+10434 - 8500
+10436 - 24281
+10438 - 16202
+10440 - 8350
+10442 - 3141
+10444 - 2961
+10446 - 1097355
+10448 - 383617
+10450 - 956822
+10452 - 194416
+10454 - 93889
+10456 - 259854
+10458 - 88790
+10460 - 163526
+10462 - 81234
+10464 - 78305
+10466 - 62450
+10468 - 117470
+10470 - 11690
+10472 - 3124
+10474 - 12451
+10476 - 7849
+10564 - 120460
+10589 - 27137
+10808 - 4038
+10810 - 120
+10812 - 17
+10814 - 74
+10816 - 14
+10818 - 269
+10820 - 360
+10826 - 502
+10828 - 47306
+10891 - 998
+10909 - 4 dose: 8420 coins3 dose: 6543 coins2 dose: 4335 coins1 dose: 2168      coins
+10911 - 4 dose: 8420 coins3 dose: 6543 coins2 dose: 4335 coins1 dose: 2168      coins
+10913 - 4 dose: 8420 coins3 dose: 6543 coins2 dose: 4335 coins1 dose: 2168      coins
+10915 - 4 dose: 8420 coins3 dose: 6543 coins2 dose: 4335 coins1 dose: 2168      coins
+10917 - 4 dose: 8665 coins3 dose: 6695 coins2 dose: 4335 coins1 dose: 2168      coins
+10919 - 4 dose: 8665 coins3 dose: 6695 coins2 dose: 4335 coins1 dose: 2168      coins
+10921 - 4 dose: 8665 coins3 dose: 6695 coins2 dose: 4335 coins1 dose: 2168      coins
+10923 - 4 dose: 8665 coins3 dose: 6695 coins2 dose: 4335 coins1 dose: 2168      coins
+10925 - 4 dose: 15325 coins3 dose: 11520 coins2 dose: 8747 coins1 dose: 5484      coins
+10927 - 4 dose: 15325 coins3 dose: 11520 coins2 dose: 8747 coins1 dose: 5484      coins
+10929 - 4 dose: 15325 coins3 dose: 11520 coins2 dose: 8747 coins1 dose: 5484      coins
+10931 - 4 dose: 15325 coins3 dose: 11520 coins2 dose: 8747 coins1 dose: 5484      coins
+10937 - 92
+10952 - 49
+10954 - 1827
+10956 - 411
+10958 - 1312
+10973 - 93
+10978 - 403
+10981 - 1058
+11037 - 108967
+11061 - 3476
+11065 - 187
+11069 - 226
+11072 - 570
+11074 - 637
+11076 - 803
+11079 - 3 charges: 930 coins1 charge: 3529        coins
+11083 - 3 charges: 930 coins1 charge: 3529        coins
+11085 - 1287
+11088 - 1380
+11090 - 10053
+11092 - 9778
+11095 - 5 charges: 11723 coins1 charge: 3039        coins
+11103 - 5 charges: 11723 coins1 charge: 3039        coins
+11105 - Uncharged: 12300 coinsCharged: 14741        coins
+11113 - Uncharged: 12300 coinsCharged: 14741        coins
+11115 - 20020
+11118 - Uncharged: 19043 coinsCharged: 20833        coins
+11126 - Uncharged: 19043 coinsCharged: 20833        coins
+11128 - 1631684
+11130 - 980157
+11133 - 126143
+11159 - 26
+11200 - 35772
+11205 - 37
+11212 - 3345
+11217 - 3359
+11222 - 3359
+11227 - 3345
+11228 - 3345
+11229 - 3345
+11230 - 344
+11231 - 344
+11232 - 965
+11233 - 344
+11234 - 344
+11235 - 136187
+11237 - 3079
+11238 - 515
+11240 - 492
+11242 - 675
+11244 - 1328
+11246 - 1037
+11248 - 2584
+11250 - 7013
+11252 - 20013
+11254 - 17874
+11256 - 327414
+11260 - 184
+11262 - 921
+11264 - 545
+11266 - 47
+11280 - Not sold
+11283 - 6918782
+11284 - 5879312
+11286 - 5275073
+11324 - 18
+11326 - 252
+11328 - 6
+11330 - 27
+11332 - 148
+11334 - 5
+11335 - 32749272
+11367 - 205
+11369 - 25
+11371 - 95
+11373 - 351
+11375 - 1098
+11377 - 12277
+11379 - 205
+11382 - 205
+11384 - 205
+11386 - 25
+11389 - 25
+11391 - 25
+11393 - 95
+11396 - 95
+11398 - 95
+11400 - 351
+11403 - 351
+11405 - 351
+11407 - 1098
+11410 - 1098
+11412 - 1098
+11414 - 12277
+11417 - 12277
+11419 - 12277
+11429 - 2 dose: 20 coins1 dose: 19        coins
+11431 - 2 dose: 20 coins1 dose: 19        coins
+11433 - 2 dose: 402 coins1 dose: 597        coins
+11435 - 2 dose: 402 coins1 dose: 597        coins
+11437 - 2 dose: 268 coins1 dose: 131        coins
+11439 - 2 dose: 268 coins1 dose: 131        coins
+11441 - 2 dose: 142 coins1 dose: 164        coins
+11443 - 2 dose: 142 coins1 dose: 164        coins
+11445 - 2 dose: 345 coins1 dose: 328        coins
+11447 - 2 dose: 345 coins1 dose: 328        coins
+11449 - 2 dose: 17 coins1 dose: 25        coins
+11451 - 2 dose: 17 coins1 dose: 25        coins
+11453 - 2 dose: 238 coins1 dose: 212        coins
+11455 - 2 dose: 238 coins1 dose: 212        coins
+11457 - 2 dose: 818 coins1 dose: 780        coins
+11459 - 2 dose: 818 coins1 dose: 780        coins
+11461 - 2 dose: 353 coins1 dose: 473        coins
+11463 - 2 dose: 353 coins1 dose: 473        coins
+11465 - 2 dose: 2064 coins1 dose: 1754        coins
+11467 - 2 dose: 2064 coins1 dose: 1754        coins
+11469 - 2 dose: 316 coins1 dose: 483        coins
+11471 - 2 dose: 316 coins1 dose: 483        coins
+11473 - 2 dose: 669 coins1 dose: 966        coins
+11475 - 2 dose: 669 coins1 dose: 966        coins
+11477 - 2 dose: 117 coins1 dose: 87        coins
+11479 - 2 dose: 117 coins1 dose: 87        coins
+11481 - 2 dose: 1033 coins1 dose: 562        coins
+11483 - 2 dose: 1033 coins1 dose: 562        coins
+11485 - 2 dose: 756 coins1 dose: 1052        coins
+11487 - 2 dose: 756 coins1 dose: 1052        coins
+11489 - 2 dose: 829 coins1 dose: 461        coins
+11491 - 2 dose: 829 coins1 dose: 461        coins
+11495 - 2 dose: 3588 coins1 dose: 3242        coins
+11515 - 2 dose: 1046 coins1 dose: 1308        coins
+11521 - 2 dose: 665 coins1 dose: 349        coins
+11523 - 2 dose: 665 coins1 dose: 349        coins
+11525 - 309
+11656 - 319
+11686 - 1 and 2: 335738 coins2 and 3: 353467 coins 1 and 3: 349487
+11688 - 1 and 2: 335738 coins2 and 3: 353467 coins 1 and 3: 349487
+11690 - 500409
+11692 - 1 and 2: 335738 coins2 and 3: 353467 coins 1 and 3: 349487
+11694 - 22750588
+11696 - 2986402
+11698 - 17436957
+11700 - 5204261
+11702 - 22927220
+11704 - 2160811
+11706 - 17887216
+11708 - 4728097
+11710 - 149796
+11712 - 149184
+11714 - 147853
+11716 - 4182196
+11718 - 4889082
+11720 - 11995222
+11722 - 11956663
+11724 - 11610969
+11726 - 10456073
+11728 - 120083
+11730 - 4834283
+11732 - 96077
+11736 - 298662
+11738 - 331618
+11967 - 741159
+12109 - 1178
+12111 - 1086
+12113 - 1241
+12115 - 1463
+12117 - 2620
+12119 - 2347
+12121 - 16606
+12125 - 76
+12127 - 145
+12129 - 2
+12130 - 407
+12134 - Evil turnip: 5702 coins2/3 evil turnip: 121 coins1/3 evil turnip: 20       coins
+12136 - Evil turnip: 5702 coins2/3 evil turnip: 121 coins1/3 evil turnip: 20       coins
+12138 - Evil turnip: 5702 coins2/3 evil turnip: 121 coins1/3 evil turnip: 20       coins
+12140 - 4 dose: 5071 coins3 dose: 3821 coins2 dose: 2438 coins1 dose: 1312      coins
+12142 - 4 dose: 5071 coins3 dose: 3821 coins2 dose: 2438 coins1 dose: 1312      coins
+12144 - 4 dose: 5071 coins3 dose: 3821 coins2 dose: 2438 coins1 dose: 1312      coins
+12146 - 4 dose: 5071 coins3 dose: 3821 coins2 dose: 2438 coins1 dose: 1312      coins
+12153 - 6360
+12156 - 161
+12172 - 3158
+12174 - 3251
+12181 - 3102
+12183 - 24
+12204 - 49
+12207 - 213
+12210 - Red: 118 coinsOrange: 188 coinsYellow: 482 coinsGreen: 104 coinsBlue: 229     coins
+12213 - Red: 118 coinsOrange: 188 coinsYellow: 482 coinsGreen: 104 coinsBlue: 229     coins
+12216 - Red: 118 coinsOrange: 188 coinsYellow: 482 coinsGreen: 104 coinsBlue: 229     coins
+12219 - Red: 118 coinsOrange: 188 coinsYellow: 482 coinsGreen: 104 coinsBlue: 229     coins
+12222 - Red: 118 coinsOrange: 188 coinsYellow: 482 coinsGreen: 104 coinsBlue: 229     coins
+12535 - 10060
+12539 - 1266
+12559 - 1072
+12561 - 180
+12563 - 747
+12565 - 557
+12567 - 1202
+12568 - 2159
+12570 - 81
+12572 - 33
+12574 - 46
+12576 - 20
+12581 - 536
+12583 - 4290
+12588 - 30
+12590 - 21
+12608 - Amulet of farming (8): 140 coinsAmulet of farming (1): 255        coins
+12622 - Amulet of farming (8): 140 coinsAmulet of farming (1): 255        coins
+12871 - 63996
+12878 - 588782
+12885 - 347692
+12892 - 6449
+12899 - 75184
+12906 - 53093
+12913 - 2253
+12920 - 18276
+12927 - 53490
+12934 - 59815
+12941 - 70879
+12948 - 189909
+12955 - 247132
+12962 - 392778
+12969 - 4112
+12976 - 37528
+12983 - 44876
+12986 - 3928
+12989 - 17656
+12992 - 29655
+12995 - 49832
+12998 - 60065
+13001 - 72179
+13004 - 98926
+13007 - 210200
+13081 - 306
+13083 - 87
+13084 - 87
+13085 - 87
+13086 - 87
+13095 - 123839
+13097 - 18277
+13099 - 12545
+13101 - 267128
+13103 - 99682
+13105 - 38579
+13107 - 313558
+13109 - 609515
+13111 - 360354
+13113 - 1050312
+13115 - 1276121
+13278 - 70
+13279 - 55
+13280 - 91
+13290 - 40782
+13337 - 7065
+13355 - 41705
+13358 - See article
+13360 - See article
+13362 - See article
+13364 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+13366 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+13368 - Beige: 76 coinsRed: 234 coinsBlue: 305 coinsBrown: 85 coinsGrey: 2366 coinsPurple: 440 coinsOrange: 210   coins
+13370 - See table for price in
+13372 - See table for price in
+13374 - See table for price in
+13431 - 45
+13433 - 20
+13435 - 38
+13563 - 62
+13734 - 44402
+13736 - 901568
+13738 - 42035211
+13740 - 493502179
+13742 - 259361180
+13744 - 21191473
+13746 - 39077202
+13748 - 446458489
+13750 - 254150547
+13752 - 19585532
+13754 - 827163
+13858 - 950902
+13861 - 637973
+13864 - 207039
+13867 - 901830
+13870 - 1003379
+13873 - 457282
+13876 - 167065
+13879 - 121248
+13880 - 121248
+13881 - 121248
+13882 - 121248
+13883 - 125817
+13884 - 3573187
+13887 - 6255127
+13890 - 3918317
+13893 - 5706475
+13896 - 3335200
+13899 - 33892840
+13902 - 10402514
+13905 - 2683571
+13908 - 3840967
+13911 - 5935426
+13914 - 3427740
+13917 - 3998029
+13920 - 2216974
+13923 - 7866272
+13926 - 5776279
+13929 - 816751
+13932 - 323481
+13935 - 199365
+13938 - 80399
+13941 - 475638
+13944 - 874091
+13947 - 132416
+13950 - 96949
+13955 - 26532
+13956 - 26532
+13958 - 293927
+13964 - 169321
+13967 - 88649
+13970 - 91182
+13973 - 2779956
+13976 - 45786
+13979 - 2391675
+13982 - 863004
+13985 - 119629
+13988 - 74720
+14472 - 741176
+14474 - 2914806
+14476 - 1298309
+14479 - 6042650
+14484 - 13299348
+14490 - 43862
+14494 - 23532
+14497 - 91161
+14499 - 40074
+14501 - 62997
+14527 - 162896
+14529 - 41961641
+14531 - 47270665
+14616 - 4907
+14679 - 23415
+14793 - 20685
+14836 - 2029
+14838 - 4 dose: 3036 coins3 dose: 2167 coins2 dose: 1482 coins1 dose: 1087      coins
+14840 - 4 dose: 3036 coins3 dose: 2167 coins2 dose: 1482 coins1 dose: 1087      coins
+14842 - 4 dose: 3036 coins3 dose: 2167 coins2 dose: 1482 coins1 dose: 1087      coins
+14844 - 4 dose: 3036 coins3 dose: 2167 coins2 dose: 1482 coins1 dose: 1087      coins
+14846 - 4 dose: 53 coins3 dose: 20 coins2 dose: 43 coins1 dose: 62      coins
+14848 - 4 dose: 53 coins3 dose: 20 coins2 dose: 43 coins1 dose: 62      coins
+14850 - 4 dose: 53 coins3 dose: 20 coins2 dose: 43 coins1 dose: 62      coins
+14852 - 4 dose: 53 coins3 dose: 20 coins2 dose: 43 coins1 dose: 62      coins
+14854 - 1986
+14856 - 2265
+14859 - 51
+15119 - 500
+15121 - 518
+15123 - 99
+15126 - 450454
+15241 - 51501
+15243 - 232
+15259 - 10915272
+15263 - 308
+15264 - 682
+15266 - 629
+15270 - 2257
+15272 - 2419
+15486 - 798513
+15488 - 53640
+15490 - 178414
+15503 - 60460
+15505 - 61465
+15507 - 60589
+15509 - 211575
+15511 - 62284
+15513 - 4226
+15515 - 14389
+15517 - 426957
+18691 - 7814
+18693 - 6382
+18695 - 2502
+18697 - 37994
+18699 - 6168
+18832 - 15388
+19143 - 2311304
+19146 - 1827642
+19149 - 2216572
+19152 - 1334
+19157 - 1315
+19162 - 1409
+19167 - 29848
+19169 - 13582
+19171 - 3648
+19173 - 48738
+19175 - 16082
+19177 - 7188
+19179 - 39448
+19182 - 38498
+19185 - 38365
+19188 - 24830
+19190 - 9913
+19192 - 3957
+19194 - 32681
+19196 - 11993
+19198 - 7029
+19200 - 39740
+19203 - 38662
+19206 - 37750
+19209 - 27270
+19211 - 9679
+19213 - 3918
+19215 - 34764
+19217 - 13945
+19219 - 6722
+19221 - 40240
+19224 - 38851
+19227 - 38463
+19230 - 19523
+19232 - 8603
+19234 - 3881
+19236 - 33963
+19238 - 12464
+19240 - 7259
+19242 - 38483
+19245 - 38686
+19248 - 38221
+19251 - 26743
+19253 - 11809
+19255 - 3839
+19257 - 45878
+19259 - 12735
+19261 - 9611
+19263 - 40130
+19266 - 43656
+19269 - 38316
+19272 - 130551
+19275 - 73687
+19278 - 59378
+19281 - 203522
+19284 - 263923
+19287 - 307985
+19290 - 6329242
+19293 - 3765282
+19296 - 2418300
+19299 - 2189565
+19302 - 2350877
+19305 - 2315299
+19308 - 243911750
+19311 - 502211481
+19314 - 248629222
+19317 - 825117879
+19320 - 463536574
+19323 - 315405
+19325 - 43985
+19327 - 43359
+19329 - 45978
+19331 - 40039
+19333 - 24125774
+19346 - 189602
+19348 - 5007321
+19350 - 3681359
+19352 - 411351
+19354 - 77105
+19356 - 1167941
+19358 - 1061497
+19360 - 134893
+19362 - 23504
+19364 - 17296
+19366 - 28233
+19368 - 179067
+19370 - 167413
+19372 - 132686
+19374 - 35827
+19376 - 30804
+19378 - 31380
+19380 - 142576
+19382 - 146440
+19384 - 58624
+19386 - 100989
+19388 - 62965
+19390 - 69486
+19392 - 256459
+19394 - 97751
+19396 - 54022
+19398 - 209462
+19401 - 87726
+19404 - 38366
+19407 - 98410
+19410 - 233952
+19413 - 157652
+19416 - 152253
+19419 - 129882
+19422 - 228937
+19425 - 826128
+19428 - 218244
+19431 - 68214
+19434 - 38793
+19437 - 133503
+19440 - 405841
+19445 - 527951
+19447 - 204880
+19449 - 118286
+19451 - 211511
+19457 - 181298
+19461 - 1493260
+19465 - 1224199
+19475 - 2604
+19476 - 8651
+19477 - 1982
+19478 - 398
+19480 - 6274
+19520 - Not sold
+19522 - Not sold
+19524 - Not sold
+19526 - Not sold
+19528 - Not sold
+19530 - Not sold
+19532 - Not sold
+19534 - Not sold
+19536 - Not sold
+19538 - Not sold
+19540 - Not sold
+19542 - Not sold
+19544 - Not sold
+19546 - Not sold
+19548 - Not sold
+19550 - Not sold
+19552 - Not sold
+19554 - Not sold
+19556 - Not sold
+19558 - Not sold
+19560 - Not sold
+19562 - Not sold
+19564 - Not sold
+19566 - Not sold
+19568 - Not sold
+19570 - Not sold
+19572 - Not sold
+19574 - Not sold
+19576 - Not sold
+19578 - Not sold
+19580 - Not sold
+19582 - Not sold
+19584 - Not sold
+19586 - Not sold
+19588 - Not sold
+19590 - Not sold
+19592 - Not sold
+19594 - Not sold
+19596 - Not sold
+19598 - Not sold
+19600 - 321103
+19601 - 240416
+19602 - 249751
+19603 - 141865
+19604 - 748752
+19605 - 359075
+19606 - 476414
+19607 - 526066
+19608 - 461135
+19609 - 396831
+19610 - 431500
+19611 - 642258
+19830 - 22
+19922 - 7
+19927 - 20
+19932 - 10
+19965 - 33
+19967 - 2096
+19994 - 1
+19996 - 9
+20052 - 4
+20053 - 47
+20070 - 1667
+20125 - 109238
+20127 - 87911
+20129 - 56896
+20131 - 72770
+20133 - 55555
+20135 - 104989914
+20139 - 246435775
+20143 - 196451600
+20147 - 101435108
+20151 - 285326091
+20155 - 231182457
+20159 - 32103735
+20163 - 82558033
+20167 - 62993505
+20171 - 86030465
+20264 - 127
+20266 - 380
+20268 - 2262
+20272 - 79
+20278 - 20
+20284 - 443
+20290 - 829
+20308 - 78
+20326 - 207
+20332 - 420
+20338 - 738
+20344 - 777
+20350 - 81
+20362 - 504
+20380 - 76
+20386 - 50
+20392 - 489
+20398 - 899
+20404 - 893
+20410 - 68
+20416 - 462
+20422 - 401
+20436 - 2387
+20438 - 15469
+20440 - 2335
+20442 - 4243
+20444 - 4969
+20446 - 3616
+20448 - 6387
+20450 - 22582
+20452 - 24890
+20454 - 8252
+20456 - 1606
+20458 - 6495
+20460 - 12599
+20462 - 24977
+20464 - 1563
+20466 - 5150
+20659 - Uncharged: 20303 coinsCharged: 21905        coins
+20661 - 9758
+20667 - 818530
+20671 - 531956
+21358 - 25
+21364 - 102
+21365 - 1634
+21369 - 3190458
+21622 - 5401
+21624 - 972
+21626 - 1077
+21628 - 1227
+21630 - 4 dose: 7043 coins3 dose: 5155 coins2 dose: 3429 coins1 dose: 1777      coins
+21632 - 4 dose: 7043 coins3 dose: 5155 coins2 dose: 3429 coins1 dose: 1777      coins
+21634 - 4 dose: 7043 coins3 dose: 5155 coins2 dose: 3429 coins1 dose: 1777      coins
+21636 - 4 dose: 7043 coins3 dose: 5155 coins2 dose: 3429 coins1 dose: 1777      coins
+21736 - Broken: 870222 coinsUndamaged: 490220        coins
+21742 - Broken: 870222 coinsUndamaged: 490220        coins
+21744 - Broken: 529642 coinsUndamaged: 302910        coins
+21750 - Broken: 529642 coinsUndamaged: 302910        coins
+21752 - Broken: 1847461 coinsUndamaged: 1170342        coins
+21758 - Broken: 1847461 coinsUndamaged: 1170342        coins
+21760 - Broken: 1003012 coinsUndamaged: 658865        coins
+21768 - 2963803
+21773 - 1671
+21774 - 15446
+21777 - 13564009
+21790 - 17671934

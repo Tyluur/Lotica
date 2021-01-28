@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Pure Melee",
+    "preset": {
+      "skills": [
+        273742.0,
+        0.0,
+        1.3034431E7,
+        1.3034431E7,
+        1.3034431E7,
+        123660.0,
+        1.3034431E7,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "inventoryItems": [
+        {
+          "id": 2436,
+          "amount": 1
+        },
+        {
+          "id": 2440,
+          "amount": 1
+        },
+        {
+          "id": 3024,
+          "amount": 1
+        },
+        {
+          "id": 3024,
+          "amount": 1
+        },
+        {
+          "id": 3144,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 3144,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 3144,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 3144,
+          "amount": 1
+        },
+        {
+          "id": 1215,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        }
+      ],
+      "equippedItems": [
+        {
+          "id": 1153,
+          "amount": 1
+        },
+        {
+          "id": 4315,
+          "amount": 1
+        },
+        {
+          "id": 1725,
+          "amount": 1
+        },
+        {
+          "id": 4587,
+          "amount": 1
+        },
+        {
+          "id": 1115,
+          "amount": 1
+        },
+        {
+          "id": 3842,
+          "amount": 1
+        },
+        null,
+        {
+          "id": 1067,
+          "amount": 1
+        },
+        null,
+        {
+          "id": 7459,
+          "amount": 1
+        },
+        {
+          "id": 3105,
+          "amount": 1
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      "spellbook": "MODERN",
+      "onCurses": false
+    }
+  },
+  {
+    "name": "Main Hybrid",
+    "preset": {
+      "skills": [
+        1.3034431E7,
+        1.3034431E7,
+        1.3034431E7,
+        1.3034431E7,
+        1.3034431E7,
+        1.3034431E7,
+        1.3034431E7,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "inventoryItems": [
+        {
+          "id": 6685,
+          "amount": 1
+        },
+        {
+          "id": 3024,
+          "amount": 1
+        },
+        {
+          "id": 2440,
+          "amount": 1
+        },
+        {
+          "id": 2436,
+          "amount": 1
+        },
+        {
+          "id": 2503,
+          "amount": 1
+        },
+        {
+          "id": 1127,
+          "amount": 1
+        },
+        {
+          "id": 4587,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 5698,
+          "amount": 1
+        },
+        {
+          "id": 1079,
+          "amount": 1
+        },
+        {
+          "id": 6524,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 385,
+          "amount": 1
+        },
+        {
+          "id": 3024,
+          "amount": 1
+        },
+        {
+          "id": 565,
+          "amount": 500
+        },
+        {
+          "id": 560,
+          "amount": 500
+        },
+        {
+          "id": 555,
+          "amount": 500
+        },
+        {
+          "id": 6685,
+          "amount": 1
+        }
+      ],
+      "equippedItems": [
+        {
+          "id": 10828,
+          "amount": 1
+        },
+        {
+          "id": 2412,
+          "amount": 1
+        },
+        {
+          "id": 1712,
+          "amount": 1
+        },
+        {
+          "id": 4675,
+          "amount": 1
+        },
+        {
+          "id": 4111,
+          "amount": 1
+        },
+        {
+          "id": 3842,
+          "amount": 1
+        },
+        null,
+        {
+          "id": 4113,
+          "amount": 1
+        },
+        null,
+        {
+          "id": 7462,
+          "amount": 1
+        },
+        {
+          "id": 4117,
+          "amount": 1
+        },
+        null,
+        {
+          "id": 2550,
+          "amount": 1
+        },
+        null,
+        null
+      ],
+      "spellbook": "ANCIENT",
+      "onCurses": true
+    }
+  }
+]

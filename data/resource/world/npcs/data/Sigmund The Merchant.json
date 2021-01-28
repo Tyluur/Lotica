@@ -1,0 +1,102 @@
+{
+  "drops": [
+    {
+      "itemId": 29,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 954,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 1931,
+      "minAmount": 30,
+      "maxAmount": 30,
+      "rate": 50.0
+    },
+    {
+      "itemId": 2142,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 2309,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 952,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 36,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 1755,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 229,
+      "minAmount": 310,
+      "maxAmount": 310,
+      "rate": 50.0
+    },
+    {
+      "itemId": 227,
+      "minAmount": 310,
+      "maxAmount": 310,
+      "rate": 50.0
+    },
+    {
+      "itemId": 1925,
+      "minAmount": 30,
+      "maxAmount": 30,
+      "rate": 50.0
+    },
+    {
+      "itemId": 1944,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 1942,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 233,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 2347,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    },
+    {
+      "itemId": 1929,
+      "minAmount": 10,
+      "maxAmount": 10,
+      "rate": 50.0
+    }
+  ],
+  "bonuses": {},
+  "combatDefinitions": {}
+}

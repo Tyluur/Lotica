@@ -1,0 +1,163 @@
+[
+  {
+    "name": "OWNER",
+    "forumGroupId": 57,
+    "messageIcon": 15,
+    "crownIcon": 15,
+    "clientRight": 2,
+    "chatColour": "FF0000",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "ADMINISTRATOR",
+    "forumGroupId": 11,
+    "messageIcon": 2,
+    "crownIcon": 1,
+    "clientRight": 2,
+    "chatColour": "FFFF33",
+    "rightsWithAccessTo": [
+      "OWNER"
+    ]
+  },
+  {
+    "name": "SERVER_MODERATOR",
+    "forumGroupId": 14,
+    "messageIcon": 1,
+    "crownIcon": 0,
+    "clientRight": 0,
+    "chatColour": "FFFFFF",
+    "rightsWithAccessTo": [
+      "OWNER",
+      "ADMINISTRATOR"
+    ]
+  },
+  {
+    "name": "SUPPORT",
+    "forumGroupId": 22,
+    "messageIcon": 14,
+    "crownIcon": 14,
+    "clientRight": 0,
+    "chatColour": "000FF",
+    "rightsWithAccessTo": [
+      "OWNER",
+      "ADMINISTRATOR",
+      "SERVER_MODERATOR"
+    ]
+  },
+  {
+    "name": "ELITE_DONATOR",
+    "forumGroupId": -1,
+    "messageIcon": 12,
+    "crownIcon": 12,
+    "clientRight": 0,
+    "chatColour": "9208c5",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "LEGENDARY_DONATOR",
+    "forumGroupId": -1,
+    "messageIcon": 11,
+    "crownIcon": 11,
+    "clientRight": 0,
+    "chatColour": "d95a00",
+    "rightsWithAccessTo": [
+      "ELITE_DONATOR"
+    ]
+  },
+  {
+    "name": "EXTREME_DONATOR",
+    "forumGroupId": -1,
+    "messageIcon": 10,
+    "crownIcon": 10,
+    "clientRight": 0,
+    "chatColour": "2fba21",
+    "rightsWithAccessTo": [
+      "ELITE_DONATOR",
+      "LEGENDARY_DONATOR"
+    ]
+  },
+  {
+    "name": "SUPREME_DONATOR",
+    "forumGroupId": -1,
+    "messageIcon": 9,
+    "crownIcon": 9,
+    "clientRight": 0,
+    "chatColour": "166ca7",
+    "rightsWithAccessTo": [
+      "OWNER",
+      "ADMINISTRATOR",
+      "SERVER_MODERATOR",
+      "ELITE_DONATOR",
+      "LEGENDARY_DONATOR",
+      "EXTREME_DONATOR"
+    ]
+  },
+  {
+    "name": "DONATOR",
+    "forumGroupId": -1,
+    "messageIcon": 8,
+    "crownIcon": 8,
+    "clientRight": 0,
+    "chatColour": "cb2f2d",
+    "rightsWithAccessTo": [
+      "ELITE_DONATOR",
+      "LEGENDARY_DONATOR",
+      "EXTREME_DONATOR",
+      "SUPER_DONATOR"
+    ]
+  },
+  {
+    "name": "VETERAN",
+    "forumGroupId": -1,
+    "messageIcon": 18,
+    "crownIcon": 18,
+    "clientRight": 0,
+    "chatColour": "B68418",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "ULTIMATE_IRONMAN",
+    "forumGroupId": -1,
+    "messageIcon": 16,
+    "crownIcon": 16,
+    "clientRight": 0,
+    "chatColour": "FFFFFF",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "IRONMAN",
+    "forumGroupId": -1,
+    "messageIcon": 13,
+    "crownIcon": 13,
+    "clientRight": 0,
+    "chatColour": "666666",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "CHALLENGER",
+    "forumGroupId": -1,
+    "messageIcon": -1,
+    "crownIcon": -1,
+    "clientRight": 0,
+    "chatColour": "0099FF",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "PLAYER",
+    "forumGroupId": 2,
+    "messageIcon": -1,
+    "crownIcon": -1,
+    "clientRight": 0,
+    "chatColour": "000000",
+    "rightsWithAccessTo": []
+  },
+  {
+    "name": "BANNED",
+    "forumGroupId": -1,
+    "messageIcon": -1,
+    "crownIcon": -1,
+    "clientRight": 0,
+    "chatColour": "000000",
+    "rightsWithAccessTo": []
+  }
+]
