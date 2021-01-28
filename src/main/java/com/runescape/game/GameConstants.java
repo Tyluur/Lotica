@@ -125,6 +125,11 @@ public final class GameConstants {
 	public static final String SQL_FILE_PATH = "./data/sql.txt";
 
 	/**
+	 * The path the cache will be loaded from
+	 */
+	public static final String CACHE_PATH = "./data/essentials/cache/";
+
+	/**
 	 * The server is on hosted mode if the main user name contains 'Administrator'
 	 */
 	public static boolean HOSTED = System.getProperty("user.home").toLowerCase().contains("root") || LINUX_HOST;
@@ -148,17 +153,6 @@ public final class GameConstants {
 	 * If double votes are enabled
 	 */
 	public static boolean DOUBLE_VOTES_ENABLED;
-
-	/**
-	 * If we are running the server on the development laptop, this boolean will be true.
-	 */
-	private static boolean DEVELOPMENT_LAPTOP = System.getProperty("user.home").toLowerCase().contains("elite");
-
-	/**
-	 * The path the cache will be loaded from
-	 */
-	public static final String CACHE_PATH = DEVELOPMENT_LAPTOP ? "C:\\Users\\EliteBook\\Dropbox\\Zulrune\\Game Build\\data\\essentials\\cache\\" : "data/essentials/cache/";
-
 	private GameConstants() {
 
 	}

@@ -4,7 +4,7 @@ plugins {
 }
 
 val koinVersion = "2.1.5"
-val junitVersion = "5.6.2"
+val junitVersio= "5.6.2"
 val jacksonVersion = "2.11.0"
 
 allprojects {
@@ -70,10 +70,6 @@ dependencies {
 
     // Network
     implementation("io.netty:netty:3.10.6.Final")
-
-    //Testing
-    testImplementation("org.junit.jupiter:junit-jupiter-api:$junitVersion")
-    testImplementation("org.junit.jupiter:junit-jupiter-params:$junitVersion")
     testImplementation(group = "org.koin", name = "koin-test", version = koinVersion)
     testImplementation(group = "io.mockk", name = "mockk", version = "1.10.0")
 }
