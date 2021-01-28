@@ -1242,7 +1242,7 @@ public final class Utils {
 	 */
 	public static List<Object> getClassesInDirectory(String directory) {
 		List<Object> classes = new ArrayList<>();
-		for (File file : Objects.requireNonNull(new File("./build/" + directory.replace(".", "/")).listFiles())) {
+		for (File file : Objects.requireNonNull(new File("./build/classes/java/main/" + directory.replace(".", "/")).listFiles())) {
 			if (file.getName().contains("$") || file.getName().contains("dropbox")) {
 				continue;
 			}
@@ -1268,7 +1268,7 @@ public final class Utils {
 		} else {
 			throw new IllegalStateException();
 		}
-		String directory = "./build/" + firstDirectory.replace(".", "/");
+		String directory = "./build/classes/java/main/" + firstDirectory.replace(".", "/");
 		File file = new File(directory);
 		String[] directories = file.list((current, name) -> new File(current, name).isDirectory());
 		return Arrays.asList(directories);
