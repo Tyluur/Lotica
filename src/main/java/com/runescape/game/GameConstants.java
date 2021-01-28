@@ -32,12 +32,12 @@ public final class GameConstants {
     /**
      * We will always be on debug mode if the server isn't hosted
      */
-    public static boolean DEBUG = !HOSTED;
+    public static boolean DEBUG = true;
 
     /**
      * SQL will always be enabled if the server is hosted, otherwise we can toggle it on or off
      */
-    public static boolean SQL_ENABLED = /*DEBUG ||*/ HOSTED;
+    public static boolean SQL_ENABLED = false;
 
     /**
      * If double votes are enabled
