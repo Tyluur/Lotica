@@ -1271,6 +1271,9 @@ public final class Utils {
 		String directory = "./build/classes/java/main/" + firstDirectory.replace(".", "/");
 		File file = new File(directory);
 		String[] directories = file.list((current, name) -> new File(current, name).isDirectory());
+		if (directories == null) {
+			throw new IllegalStateException("Unable to get directories!");
+		}
 		return Arrays.asList(directories);
 	}
 
