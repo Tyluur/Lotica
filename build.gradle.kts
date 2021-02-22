@@ -4,7 +4,7 @@ plugins {
 }
 
 val koinVersion = "2.1.5"
-val junitVersio= "5.6.2"
+val junitVersio = "5.6.2"
 val jacksonVersion = "2.11.0"
 
 allprojects {

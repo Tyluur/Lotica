@@ -7,6 +7,7 @@ import com.runescape.game.content.FishingSpotsHandler;
 import com.runescape.game.content.FriendChatsManager;
 import com.runescape.game.content.GlobalPlayers;
 import com.runescape.game.content.RandomEventManager;
+import com.runescape.game.content.bot.BotInitializer;
 import com.runescape.game.content.economy.treasure.TreasureTrailData.TreasureTrailTier;
 import com.runescape.game.content.economy.treasure.TreasureTrailHandler;
 import com.runescape.game.content.global.clans.ClansManager;
@@ -174,7 +175,7 @@ public final class Main {
 		ConsoleListener.initializeConsoleListener();
 		LoginRequestProcessor.getSingleton().init();
 		LoticaChannelHandler.init();
-		//BotInitializer.initializeBots();
+		BotInitializer.initializeBots();
 		started = true;
 	}
 
