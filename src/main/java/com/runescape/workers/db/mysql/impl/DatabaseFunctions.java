@@ -607,6 +607,9 @@ public class DatabaseFunctions {
 
     public static void updateWebsiteDetails() {
         DatabaseConnection connection = World.getConnectionPool().nextFree();
+        if (connection == null) {
+            return;
+        }
         long staffOnline = World.players().filter(Player::isStaff).count();
         try {
             Statement stmt = connection.createStatement();

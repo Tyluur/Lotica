@@ -104,7 +104,8 @@ public class WildernessActivityManager implements Runnable {
 				currentActivity = randomActivity;
 
 				/** Sending the server announcement */
-				World.sendWorldMessage("<img=6><col=" + ChatColors.MAROON + ">Wilderness</col>: " + randomActivity.getServerAnnouncement(), false);
+				// to disable sending server announcementes
+//				World.sendWorldMessage("<img=6><col=" + ChatColors.MAROON + ">Wilderness</col>: " + randomActivity.getServerAnnouncement(), false);
 			} else if (currentActivity != null) {
 				long activityTime = currentActivity.getActivityTime();
 				currentActivity.process();

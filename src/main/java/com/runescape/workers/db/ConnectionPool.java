@@ -94,7 +94,8 @@ public class ConnectionPool<T extends DatabaseConnection> {
 		connection = configuration.newConnection();
 		connection.setPool((ConnectionPool<DatabaseConnection>) this);
 		if (!connection.connect()) {
-			throw new RuntimeException("Connection was unable to connect!");
+			System.err.println("Connection was unable to connect!");
+			return null;
 		} else {
 			currentConnections++;
 		}
