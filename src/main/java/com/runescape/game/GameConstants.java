@@ -32,7 +32,7 @@ public final class GameConstants {
     /**
      * The url to the file to integrate accounts with the forum
      */
-    public static final String WEB_INTEGRATION_URL = "dusk.rs/lotica.php";
+    public static final String WEB_INTEGRATION_URL = "dusk.rs/forum/lotica.php";
 
     /**
      * We will always be on debug mode if the server isn't hosted

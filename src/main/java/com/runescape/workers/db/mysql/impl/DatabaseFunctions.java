@@ -396,12 +396,13 @@ public class DatabaseFunctions {
 //	    	System.out.println(bldr.toString());
             try {
                 WebPage page = new WebPage(bldr.toString());
-                page.load(false);
+                page.load(true);
                 List<String> results = page.getLines();
                 String result = "";
                 for (String text : results) {
                     result = result + text;
                 }
+                System.out.println("result=" + result);
                 if (result.contains("The requested user ")) {
                     return ForumLoginResults.NON_EXISTANT_USERNAME;
                 } else if (result.equalsIgnoreCase("Incorrect password. Please try again.")) {

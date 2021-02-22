@@ -196,7 +196,7 @@ public final class Utils {
 	public static int getFakePlayerCount() {
 		int playerCount = World.getPlayers().size();
 		int modifier = playerCount < 10 ? 3 : Math.round(playerCount / 10) * 3;
-		return playerCount + modifier;
+		return playerCount;
 	}
 
 	public static String convertMillisecondsToTime(long milliseconds) {

