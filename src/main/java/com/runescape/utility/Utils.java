@@ -1242,7 +1242,12 @@ public final class Utils {
 	 */
 	public static List<Object> getClassesInDirectory(String directory) {
 		List<Object> classes = new ArrayList<>();
-		for (File file : Objects.requireNonNull(new File("./build/classes/java/main/" + directory.replace(".", "/")).listFiles())) {
+		File[] files = Objects.requireNonNull(new File("./build/classes/java/main/" + directory.replace(".", "/")).listFiles());
+		if (files == null) {
+			System.err.println("Unable to find files in " + directory);
+			return classes;
+		}
+		for (File file : files) {
 			if (file.getName().contains("$") || file.getName().contains("dropbox")) {
 				continue;
 			}
@@ -1272,7 +1277,8 @@ public final class Utils {
 		File file = new File(directory);
 		String[] directories = file.list((current, name) -> new File(current, name).isDirectory());
 		if (directories == null) {
-			throw new IllegalStateException("Unable to get directories!");
+			System.err.println("Unable to find files in " + directory);
+			return new ArrayList<>();
 		}
 		return Arrays.asList(directories);
 	}

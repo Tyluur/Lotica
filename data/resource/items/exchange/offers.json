@@ -282,20 +282,6 @@
   {
     "owner": "tyluur",
     "itemId": 15272,
-    "type": "SELL",
-    "slot": 5,
-    "unlimited": false,
-    "amountRequested": 100,
-    "amountProcessed": 21,
-    "amountReceived": 21,
-    "price": 12000,
-    "surplus": 0,
-    "aborted": false,
-    "processing": false
-  },
-  {
-    "owner": "tyluur",
-    "itemId": 15272,
     "type": "BUY",
     "slot": 4,
     "unlimited": false,
@@ -513,6 +499,20 @@
     "amountProcessed": 0,
     "amountReceived": 0,
     "price": 570,
+    "surplus": 0,
+    "aborted": false,
+    "processing": false
+  },
+  {
+    "owner": "tyluur",
+    "itemId": 15272,
+    "type": "SELL",
+    "slot": 5,
+    "unlimited": false,
+    "amountRequested": 100,
+    "amountProcessed": 21,
+    "amountReceived": 0,
+    "price": 12000,
     "surplus": 0,
     "aborted": false,
     "processing": false

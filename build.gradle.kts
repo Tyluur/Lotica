@@ -55,7 +55,6 @@ dependencies {
     implementation("com.displee", "rs-cache-library", "6.7")
     implementation("com.github.michaelbull", "rs-api", "1.1.1")
 
-    //Utilities
     implementation("com.google.guava:guava:29.0-jre")
     implementation("org.apache.commons:commons-lang3:3.10")
     implementation("commons-cli", "commons-cli", "1.4")
