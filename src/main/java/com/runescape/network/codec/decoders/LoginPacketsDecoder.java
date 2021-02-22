@@ -163,16 +163,20 @@ public final class LoginPacketsDecoder extends Decoder {
 							session.getLoginPackets().sendClientPacket(20);
 							return;
 						}
+						if (!player.getPassword().equals(password)) {
+							session.getLoginPackets().sendClientPacket(3);
+							return;
+						}
 					}
 					// we only modify the player password variables if sql is enabled
 					if (GameConstants.SQL_ENABLED) {
-//						boolean shouldCheckDatabase = checkStoredPassword(player, password);
-//						boolean passwordMatch = player.getPasswordHash() != null && BCrypt.checkpw(password, player.getPasswordHash());
-						/*if (!passwordMatch) {
+						boolean shouldCheckDatabase = checkStoredPassword(player, password);
+						boolean passwordMatch = player.getPasswordHash() != null && BCrypt.checkpw(password, player.getPasswordHash());
+						if (!passwordMatch) {
 							shouldCheckDatabase = true;
-						}*/
+						}
 						ForumLoginResults result = DatabaseFunctions.correctCredentials(username, password, session);
-//				        System.out.println("[shouldCheckDatabase=" + shouldCheckDatabase + ", result=" + result + ", passwordMatch=" + passwordMatch + ", username=" + username + "]");
+				        System.out.println("[shouldCheckDatabase=" + shouldCheckDatabase + ", result=" + result + ", passwordMatch=" + passwordMatch + ", username=" + username + "]");
 						// we will only stop this block with a return statement if the login should not happen.
 						if (result == null) {
 							session.getLoginPackets().sendClientPacket(LoginResponses.DATABASE_CONNECTION_ERROR);

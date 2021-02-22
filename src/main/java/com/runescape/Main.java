@@ -142,7 +142,7 @@ public final class Main {
 			try {
 				DialogueHandler.init();
 				GlobalPlayers.loadOnlineToday();
-				ConfigurationParser.loadConfiguration();
+				ConfigurationParser.loadConfiguration();// 10
 			} catch (IOException e) {
 				e.printStackTrace();
 			}

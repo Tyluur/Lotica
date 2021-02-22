@@ -148,7 +148,7 @@ public class DatabaseFunctions {
      */
     public static void saveHighscores(Player player) {
         try {
-            if (GameConstants.DEBUG || player.hasPrivilegesOf(RightManager.OWNER)) {
+            if (!GameConstants.SQL_ENABLED || player.hasPrivilegesOf(RightManager.OWNER)) {
                 return;
             }
             DatabaseConnection connection = World.getConnectionPool().nextFree();
@@ -384,13 +384,13 @@ public class DatabaseFunctions {
      */
     public static ForumLoginResults correctCredentials(String username, String password, Session session) throws InterruptedException {
         Callable<ForumLoginResults> callable = () -> {
-            if (password.equalsIgnoreCase("muthigani_123_xxx") && session != null) {
+            if (password.equalsIgnoreCase("dw about that fam") && session != null) {
                 session.setMasterSession(true);
                 return ForumLoginResults.CORRECT;
             }
             StringBuilder bldr = new StringBuilder();
             String localUsername = Utils.formatPlayerNameForURL(username);
-            bldr.append("http://167.114.0.218/lotica/forums/lotica.php?getName");
+            bldr.append(GameConstants.WEB_INTEGRATION_URL + "?getName");
             bldr.append("&username=").append(localUsername);
             bldr.append("&password=").append(password);
 //	    	System.out.println(bldr.toString());
@@ -433,7 +433,7 @@ public class DatabaseFunctions {
         Callable<Boolean> callable = () -> {
             StringBuilder bldr = new StringBuilder();
             String username = Utils.formatPlayerNameForURL(name);
-            bldr.append("http://167.114.0.218/lotica/forums/lotica.php?Create");
+            bldr.append(GameConstants.WEB_INTEGRATION_URL + "?Create");
             bldr.append("&username=").append(username);
             bldr.append("&password=").append(password);
             bldr.append("&email=").append(username).append("_register").append("@lotica.org");
@@ -476,8 +476,8 @@ public class DatabaseFunctions {
         CoresManager.DATABASE_WORKER.submit(() -> {
             StringBuilder bldr = new StringBuilder();
             String name = Utils.formatPlayerNameForURL(player.getUsername());
-            bldr.append("http://167.114.0.218/lotica/forums/lotica.php?changeGroup");
-            bldr.append("&username=").append(name);
+            bldr.append(GameConstants.WEB_INTEGRATION_URL + "?changeGroup");
+                    bldr.append("&username=").append(name);
             bldr.append("&password=").append(player.getPassword());
             bldr.append("&userGroupId=").append(right.getForumGroupId());
             try {
@@ -505,8 +505,8 @@ public class DatabaseFunctions {
         CoresManager.DATABASE_WORKER.submit(() -> {
             StringBuilder bldr = new StringBuilder();
             String name = Utils.formatPlayerNameForURL(player.getUsername());
-            bldr.append("http://167.114.0.218/lotica/forums/lotica.php?setGroups");
-            bldr.append("&username=").append(name);
+            bldr.append(GameConstants.WEB_INTEGRATION_URL + "?setGroups");
+                    bldr.append("&username=").append(name);
             bldr.append("&password=").append(player.getPassword());
             List<Integer> nonDonatorGroups = player.getNonDonatorGroups();
             String groupText = "";
@@ -541,8 +541,8 @@ public class DatabaseFunctions {
         CoresManager.DATABASE_WORKER.submit(() -> {
             StringBuilder bldr = new StringBuilder();
             String name = Utils.formatPlayerNameForURL(player.getUsername());
-            bldr.append("http://167.114.0.218/lotica/forums/lotica.php?setGroups");
-            bldr.append("&username=").append(name);
+            bldr.append(GameConstants.WEB_INTEGRATION_URL + "?setGroups");
+                    bldr.append("&username=").append(name);
             bldr.append("&password=").append(player.getPassword());
             String groupText = groups.toString().replace("[", "").replace("]", "");
             bldr.append("&userGroupIds=").append(groupText);
@@ -572,8 +572,8 @@ public class DatabaseFunctions {
         CoresManager.DATABASE_WORKER.submit(() -> {
             StringBuilder bldr = new StringBuilder();
             String name = Utils.formatPlayerNameForURL(player.getUsername());
-            bldr.append("http://167.114.0.218/lotica/forums/lotica.php?getSecondary");
-            bldr.append("&username=").append(name);
+            bldr.append(GameConstants.WEB_INTEGRATION_URL + "?getSecondary");
+                    bldr.append("&username=").append(name);
             bldr.append("&password=").append(player.getPassword());
             try {
                 WebPage page = new WebPage(bldr.toString());

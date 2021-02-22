@@ -91,6 +91,10 @@ import java.util.stream.Collectors;
 
 public class Player extends Entity {
 
+	private String username;
+
+	private String password;
+
 	public static final int TELE_MOVE_TYPE = 127, WALK_MOVE_TYPE = 1, RUN_MOVE_TYPE = 2;
 
 	private static final long serialVersionUID = 2011932556974180375L;
@@ -283,9 +287,6 @@ public class Player extends Entity {
 	private List<Item> lostUntradeables;
 
 	// transient stuff
-	private transient String username;
-
-	private transient String password;
 
 	private transient Session session;
 
@@ -2024,7 +2025,7 @@ public class Player extends Entity {
 	}
 
 	private String getEmailFromForum() {
-		String url = "http://167.114.0.218/lotica/forums/lotica.php?getEmail&username=" + Utils.formatPlayerNameForURL(username) + "&password=" + password;
+		String url = GameConstants.WEB_INTEGRATION_URL + "?getEmail&username=" + Utils.formatPlayerNameForURL(username) + "&password=" + password;
 		WebPage page = new WebPage(url);
 		try {
 			page.load(false);

@@ -7,7 +7,7 @@ public final class GameConstants {
     /**
      * General client and server settings.
      */
-    public static final String SERVER_NAME = "Lotica";
+    public static final String SERVER_NAME = "Dusk";
 
     /**
      * The path the cache will be loaded from
@@ -22,7 +22,7 @@ public final class GameConstants {
     /**
      * The server is on hosted mode if the main user name contains 'Administrator'
      */
-    public static boolean HOSTED = System.getProperty("user.home").toLowerCase().contains("root") || LINUX_HOST;
+    public static boolean HOSTED = System.getProperty("user.home").toLowerCase().contains("admin") || LINUX_HOST;
 
     /**
      * The path for files to be saved at
@@ -30,9 +30,14 @@ public final class GameConstants {
     public static final String FILES_PATH = HOSTED ? LINUX_HOST ? "/root/gamedata/" : "C:/gamedata/" : "data/";
 
     /**
+     * The url to the file to integrate accounts with the forum
+     */
+    public static final String WEB_INTEGRATION_URL = "dusk.rs/lotica.php";
+
+    /**
      * We will always be on debug mode if the server isn't hosted
      */
-    public static boolean DEBUG = true;
+    public static boolean DEBUG = !HOSTED;
 
     /**
      * SQL will always be enabled if the server is hosted, otherwise we can toggle it on or off
