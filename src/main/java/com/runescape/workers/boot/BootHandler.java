@@ -79,8 +79,8 @@ public class BootHandler {
 	public static void executeWorkers() {
 		ExecutorService service = Executors.newFixedThreadPool(CoresManager.AVAILABLE_PROCESSORS);
 		//System.out.println("submitted to " + service.toString());
-		BOOT_WORKERS.forEach(service::execute);
-//		BOOT_WORKERS.forEach(worker -> new Thread(worker).start());
+//		BOOT_WORKERS.forEach(service::execute);
+		BOOT_WORKERS.forEach(worker -> new Thread(worker).start());
 	}
 
 	/**
