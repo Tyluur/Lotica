@@ -66,6 +66,8 @@ dependencies {
     implementation("it.unimi.dsi:fastutil:8.3.1")
     implementation("com.zaxxer", "HikariCP", "2.3.2")
     implementation("org.yaml", "snakeyaml", "1.26")
+    implementation("com.sun.activation", "javax.activation", "1.2.0")
+    // compile 'com.sun.activation:javax.activation:1.2.0'
 
     // Network
     implementation("io.netty:netty:3.10.6.Final")
