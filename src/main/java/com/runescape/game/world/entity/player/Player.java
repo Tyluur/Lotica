@@ -1923,22 +1923,13 @@ public class Player extends Entity {
 		lastIP = getSession().getIP();
 		interfaceManager.sendInterfaces();
 		sendMessage("Welcome to " + GameConstants.SERVER_NAME + ".");
-//		sendMessage("Use ::commands to find out which commands you can use.");
 		if (Lottery.getWins(this).size() > 0) {
-			sendMessage("<col=" + ChatColors.BLUE + ">You have unclaimed lottery wins, please speak to the Gambler to receive your lotto cash.");
+			sendMessage("You have unclaimed lottery wins, please speak to the Gambler to receive your lotto cash.");
 		}
 		ShootingStarTick shootingStarTick = WorldTasksManager.getTask(ShootingStarTick.class);
 		if (shootingStarTick != null && shootingStarTick.getSpawnLocation() != null) {
 			sendMessage("There is currently a shooting star at: " + shootingStarTick.getSpawnLocation() + ".");
 		}
-		if (!getPinManager().hasPin() || !securityDetails.hasSecurityEnabled()) {
-			sendMessage(new String[] { "<col=" + ChatColors.RED + ">Your account is vulernable to hacking - please set a bank pin & security question." }, 6);
-		}
-		if (DXPAlgorithms.isDoubleExperienceOn()) {
-			sendMessage("<col=" + ChatColors.RED + ">Bonus experience is currently active, don't experience waste!");
-			skills.sendBonusConfigs();
-		}
-//		checkEmail();
 		sendDefaultPlayersOptions();
 		checkMultiArea();
 		inventory.init();
