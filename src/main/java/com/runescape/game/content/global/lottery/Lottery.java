@@ -219,7 +219,7 @@ public class Lottery {
 	private static void startLottery() {
 		lotteryStartTime = System.currentTimeMillis();
 		saveState();
-		World.sendWorldMessage("<img=6><col=" + ChatColors.MAROON + ">Lottery</col>: The lottery has just started! Speak to the Gambler to enter!.", false);
+		World.sendWorldMessage("<img=6>Lottery: The lottery has just started! Speak to the Gambler to enter!.", false);
 	}
 
 	/**

@@ -14,22 +14,22 @@ import java.util.concurrent.TimeUnit;
  */
 public class SetBonusExp extends CommandSkeleton<String[]> {
 
-	@Override
-	public String[] getIdentifiers() {
-		return new String[] { "setbonusxp", "dxpwknd" };
-	}
+    @Override
+    public String[] getIdentifiers() {
+        return new String[]{"setbonusxp", "dxpwknd"};
+    }
 
-	@Override
-	public void handleCommand(Player player, String[] cmd) {
-		try {
-			int hours = Integer.parseInt(cmd[1]);
-			long overAt = System.currentTimeMillis() + TimeUnit.HOURS.toMillis(hours);
-			ConfigurationParser.putProperty(ConfigurationParser.DXP_WEEKEND_START_KEY, System.currentTimeMillis());
-			ConfigurationParser.putProperty(ConfigurationParser.DXP_WEEKEND_END_KEY, overAt);
-			World.sendWorldMessage("<col=" + ChatColors.RED + ">Double experience has now been enabled for the next " + hours + " hours.", false);
-		} catch (Exception e) {
-			player.sendMessage("Use as ::" + cmd[0] + " hours");
-			e.printStackTrace();
-		}
-	}
+    @Override
+    public void handleCommand(Player player, String[] cmd) {
+        try {
+            int hours = Integer.parseInt(cmd[1]);
+            long overAt = System.currentTimeMillis() + TimeUnit.HOURS.toMillis(hours);
+            ConfigurationParser.putProperty(ConfigurationParser.DXP_WEEKEND_START_KEY, System.currentTimeMillis());
+            ConfigurationParser.putProperty(ConfigurationParser.DXP_WEEKEND_END_KEY, overAt);
+            World.sendWorldMessage("<col=" + ChatColors.RED + ">Double experience has now been enabled for the next " + hours + " hours.", false);
+        } catch (Exception e) {
+            player.sendMessage("Use as ::" + cmd[0] + " hours");
+            e.printStackTrace();
+        }
+    }
 }
