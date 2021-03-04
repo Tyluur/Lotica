@@ -117,8 +117,6 @@ public final class World {
 			WorldTasksManager.schedule(new ServerTipsTick(), 10, 10);
 			WorldTasksManager.schedule(new LentItemsTick(), 3, 3);
 			WorldTasksManager.schedule(new AntiVPNTick(), 10, 10);
-			WorldTasksManager.schedule(new WebsiteUpdateTick(), 500, 500);
-			//WorldTasksManager.schedule(new SessionTimeoutTick(), 10, 10);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
