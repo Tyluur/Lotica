@@ -48,7 +48,7 @@ public class MapArchiveKeys {
 	}
 
 	public static void loadUnpacked() throws IOException {
-		File directory = new File("data/resource/world/map/containersXteas/output 667/");
+		File directory = new File("data/resource/world/map/containersXteas/unpacked 634/");
 		DataOutputStream output = new DataOutputStream(new FileOutputStream("data/resource/world/map/packedKeys.bin"));
 		if (directory.isDirectory()) {
 			for (File file : directory.listFiles()) {
