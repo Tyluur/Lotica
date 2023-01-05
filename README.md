@@ -13,6 +13,6 @@
 ---
 
 #### Resources
-- 667 [Client](https://displee.com/archive/rs2/667/Deob.zip)
-- 667 [Cache](https://displee.com/archive/rs2/667/667v3%20cache.rar)
+- Lotica Client(https://mega.nz/file/EdpQVQ4L#gvr4C7AThCJaMayFpLeR2sPCf9PbU_xDk-xVOOoahrM)
+- Lotica Cache(https://mega.nz/file/cUwBjYLZ#CcaP_w3ADmawLFssWrB2-7yML19QjULFPePkU_T_Tbo)
 
