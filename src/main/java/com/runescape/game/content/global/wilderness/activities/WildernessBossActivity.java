@@ -64,7 +64,7 @@ public class WildernessBossActivity extends WildernessActivity {
 	public void spawnRandomBoss(WildernessSpawns spawn) {
 		int npcId = possibleBosses[(Utils.random(possibleBosses.length))];
 		boss = new WildernessBoss(npcId, spawn.spawnTile);
-		World.sendWorldMessage("<img=6><col=" + ChatColors.MAROON + ">Wilderness</col>: A " + boss.getName() + " has spotted near <col=" + ChatColors.RED + ">" + spawn.getDescription().toLowerCase() + "</col>.", false);
+//		World.sendWorldMessage("<img=6><col=" + ChatColors.MAROON + ">Wilderness</col>: A " + boss.getName() + " has spotted near <col=" + ChatColors.RED + ">" + spawn.getDescription().toLowerCase() + "</col>.", false);
 	}
 
 	@Override

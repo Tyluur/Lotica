@@ -34,7 +34,7 @@ public enum MapMerging {
 	 */
 	public static void start() {
 		for (MapMerging map : MapMerging.values()) {
-			map.merge();
+			//map.merge();
 		}
 	}
 }

@@ -114,7 +114,6 @@ public final class World {
 			WorldTasksManager.schedule(new TimedItemsTick(), 1, 1);
 			WorldTasksManager.schedule(new TimedObjectHandling(), 5, 5);
 			WorldTasksManager.schedule(new DailyEventTick(), 60, 60);
-			WorldTasksManager.schedule(new ServerTipsTick(), 10, 10);
 			WorldTasksManager.schedule(new LentItemsTick(), 3, 3);
 			WorldTasksManager.schedule(new AntiVPNTick(), 10, 10);
 		} catch (Exception e) {

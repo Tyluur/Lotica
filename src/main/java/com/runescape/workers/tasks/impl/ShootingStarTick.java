@@ -103,7 +103,7 @@ public class ShootingStarTick extends WorldTask {
 			spawnLocation = starLocation.getLocationNames()[index];
 
 			World.spawnObject(star = new ShootingStar(STAR_IDS[0], 10, 1, spawnTile));
-			World.sendWorldMessage("<img=5><col=E65D02>A shooting star has just landed near " + spawnLocation + "!", false);
+//			World.sendWorldMessage("<img=5><col=E65D02>A shooting star has just landed near " + spawnLocation + "!", false);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

@@ -26,6 +26,7 @@ import com.runescape.game.world.entity.player.QuestManager;
 import com.runescape.game.world.entity.player.achievements.AchievementHandler;
 import com.runescape.game.world.item.ItemProperties;
 import com.runescape.game.world.item.WorldFloorItems;
+import com.runescape.game.world.region.MapMerging;
 import com.runescape.game.world.region.RegionBuilder;
 import com.runescape.network.LoticaChannelHandler;
 import com.runescape.network.stream.incoming.IncomingStreamHandler;
@@ -170,8 +171,7 @@ public final class Main {
 	 */
 	public void performCompletionTasks() throws InterruptedException {
 		BootHandler.finish();
-//		MapMerging.start();
-		// TODO this
+		MapMerging.start();
 		ConsoleListener.initializeConsoleListener();
 		LoginRequestProcessor.getSingleton().init();
 		LoticaChannelHandler.init();
