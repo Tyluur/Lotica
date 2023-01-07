@@ -70,7 +70,6 @@ public final class Main {
 	 * If the server was started
 	 */
 	private boolean started = false;
-
 	private Main() {
 		this.startTime = System.currentTimeMillis();
 	}
