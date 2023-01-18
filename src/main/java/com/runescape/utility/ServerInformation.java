@@ -13,7 +13,7 @@ public class ServerInformation {
 	 * will also ensure the numbers are all two-digital for prettier formatting
 	 */
 	public static String getGameUptime() {
-		long milliseconds = System.currentTimeMillis() - Main.get().getStartTime();
+		long milliseconds = System.currentTimeMillis() - Main.get().startTime;
 		long days = (milliseconds / 86400000L);
 		long hours = ((milliseconds / 3600000L) % 24L);
 		long minutes = ((milliseconds / 60000L) % 60L);

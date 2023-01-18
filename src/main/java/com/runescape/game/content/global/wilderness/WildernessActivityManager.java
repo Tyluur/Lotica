@@ -80,7 +80,7 @@ public class WildernessActivityManager implements Runnable {
 	@Override
 	public void run() {
 		try {
-			if (Main.get().getStartTime() == -1 || World.getPlayers().size() == 0) {
+			if (Main.get().startTime == -1 || World.getPlayers().size() == 0) {
 				return;
 			}
 			if (System.currentTimeMillis() >= nextActivityTime) {
