@@ -2,6 +2,9 @@ package rs.dusk.utility.func.com.runescape.utility
 
 import io.github.classgraph.ClassGraph
 
+/**
+ * This class provides functions for file operations on the JVM level
+ */
 class FileFunction {
 
     companion object {
