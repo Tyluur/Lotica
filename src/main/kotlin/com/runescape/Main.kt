@@ -54,6 +54,11 @@ import com.runescape.workers.game.login.LoginRequestProcessor
 import java.io.IOException
 import kotlin.system.exitProcess
 
+/**
+ * @author Tyluur <itstyluur@icloud.com>
+ *
+ * This class is responsible for executing the main game server and all necessary subcomponents.
+ */
 class Main private constructor() {
     /**
      * @return the startTime
