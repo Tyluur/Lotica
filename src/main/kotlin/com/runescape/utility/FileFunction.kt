@@ -9,7 +9,7 @@ class FileFunction {
 
     companion object {
 
-        val result = ClassGraph().enableClassInfo()
+        val result: ClassGraph = ClassGraph().enableClassInfo()
 
         inline fun <reified T> getChildClassesOf(): MutableList<T> {
             val kClass = T::class
