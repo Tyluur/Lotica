@@ -1,31 +1,25 @@
 plugins {
     application
-    kotlin("jvm") version "1.3.72"
+    kotlin("jvm") version "1.8.0"
 }
 
+group = "dusk-rs"
+version = "0.0.1"
+
+java.sourceCompatibility = JavaVersion.toVersion('8')
+java.targetCompatibility = JavaVersion.toVersion('8')
+
 val koinVersion = "2.1.5"
-val junitVersio = "5.6.2"
+val junitVersion = "5.6.2"
 val jacksonVersion = "2.11.0"
 
-allprojects {
-    apply(plugin = "kotlin")
-    apply(plugin = "idea")
-    apply(plugin = "org.jetbrains.kotlin.jvm")
-
-    group = "dusk-rs"
-    version = "0.0.1"
-
-    java.sourceCompatibility = JavaVersion.toVersion('8')
-    java.targetCompatibility = JavaVersion.toVersion('8')
-
-    repositories {
-        mavenCentral()
-        mavenLocal()
-        jcenter()
-        maven(url = "https://repo.maven.apache.org/maven2")
-        maven(url = "https://jitpack.io")
-        maven(url = "https://dl.bintray.com/michaelbull/maven")
-    }
+repositories {
+    mavenCentral()
+    mavenLocal()
+    jcenter()
+    maven(url = "https://repo.maven.apache.org/maven2")
+    maven(url = "https://jitpack.io")
+    maven(url = "https://dl.bintray.com/michaelbull/maven")
 }
 
 application {
