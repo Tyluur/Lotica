@@ -23,7 +23,7 @@ repositories {
 }
 
 application {
-    mainClassName = "com.runescape.Main"
+    mainClass.set("com.runescape.Main")
 }
 
 dependencies {
