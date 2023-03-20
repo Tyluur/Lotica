@@ -3,7 +3,7 @@ plugins {
     kotlin("jvm") version "1.8.0"
 }
 
-group = "dusk-rs"
+group = "lotica"
 version = "0.0.1"
 
 java.sourceCompatibility = JavaVersion.toVersion('8')
